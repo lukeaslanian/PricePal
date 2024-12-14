@@ -1,0 +1,30 @@
+2024-12-13 22:56:53,245 - INFO: Debugging CSV file: dump.csv
+2024-12-13 22:56:53,246 - INFO: First 10 lines of dump.csv:
+2024-12-13 22:56:53,246 - INFO: sku,retail_price,item_title,inserted_at,store_code,availability
+2024-12-13 22:56:53,246 - INFO: sku,retail_price,item_title,inserted_at,store_code,availability
+2024-12-13 22:56:53,246 - INFO: 081576,6.49,"Almond Creek Almond Flavored Sparkling Wine","2024-12-07 23:45:29",546,0
+2024-12-13 22:56:53,246 - INFO: 058289,12.99,"La Burgondie Cremant De Bourgogne Rose Brut","2024-12-07 23:45:29",546,0
+2024-12-13 22:56:53,246 - INFO: 079910,8.99,"Organic Grass Fed Top Sirloin Steak","2024-12-07 23:45:29",546,0
+2024-12-13 22:56:53,246 - INFO: 079785,24.99,"Organic Grass Fed Tenderloin Steak","2024-12-07 23:45:29",546,0
+2024-12-13 22:56:53,246 - INFO: 079783,13.99,"Organic Grass Fed NY Strip Steak Boneless","2024-12-07 23:45:29",546,0
+2024-12-13 22:56:53,246 - INFO: 079782,14.99,"Organic Grass Fed Ribeye Steak Boneless","2024-12-07 23:45:29",546,0
+2024-12-13 22:56:53,246 - INFO: 079955,3.69,"Caesar Salad Dip","2024-12-07 23:45:29",546,1
+2024-12-13 22:56:53,246 - INFO: 079159,4.49,"Rum Balls","2024-12-07 23:45:29",546,1
+2024-12-13 22:56:53,246 - INFO: CSV Headers: ['sku', 'retail_price', 'item_title', 'inserted_at', 'store_code', 'availability']
+2024-12-13 22:56:54,073 - INFO: Total rows: 1259381
+2024-12-13 22:56:54,073 - INFO: Invalid rows: 0
+2024-12-13 22:56:54,073 - INFO: Debugging CSV file: whole_foods_trader_joes_format.csv
+2024-12-13 22:56:54,074 - INFO: First 10 lines of whole_foods_trader_joes_format.csv:
+2024-12-13 22:56:54,074 - INFO: sku,retail_price,item_title,inserted_at,store_code,availability
+2024-12-13 22:56:54,074 - INFO: WF00001,0.01,"Pizza Slice, 1 each",2024-12-13 22:49:21,546,1
+2024-12-13 22:56:54,074 - INFO: WF00002,0.01,Red Cherries,2024-12-13 22:49:21,546,1
+2024-12-13 22:56:54,074 - INFO: WF00003,0.01,Boneless Beef New York Strip Steak,2024-12-13 22:49:21,546,1
+2024-12-13 22:56:54,074 - INFO: WF00004,0.01,Beef Ribeye Steak,2024-12-13 22:49:21,546,1
+2024-12-13 22:56:54,074 - INFO: WF00005,0.01,Medium Hass Avocado,2024-12-13 22:49:21,546,1
+2024-12-13 22:56:54,074 - INFO: WF00006,0.01,"Frozen Wild-Caught Seafood Value Pack, Sockeye Salmon Fillets",2024-12-13 22:49:21,546,1
+2024-12-13 22:56:54,074 - INFO: WF00007,0.01,Lemon,2024-12-13 22:49:21,546,1
+2024-12-13 22:56:54,074 - INFO: WF00008,0.01,Boneless Beef Ribeye Steak,2024-12-13 22:49:21,546,1
+2024-12-13 22:56:54,074 - INFO: WF00009,0.01,Chilean Sea Bass Fillet,2024-12-13 22:49:21,546,1
+2024-12-13 22:56:54,074 - INFO: CSV Headers: ['sku', 'retail_price', 'item_title', 'inserted_at', 'store_code', 'availability']
+2024-12-13 22:56:54,086 - INFO: Total rows: 9596
+2024-12-13 22:56:54,086 - INFO: Invalid rows: 0

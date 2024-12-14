@@ -1,0 +1,959 @@
+sku,retail_price,item_title,inserted_at,store_code,availability
+WF00001,600,My Store - H Street,2024-12-13 23:27:16,546,1
+WF00002,200,All Products,2024-12-13 23:27:16,546,1
+WF00003,7.99,Organic Boneless And Skinless Chicken Breasts,2024-12-13 23:27:16,546,1
+WF00004,24.99,Wild-Caught Cod Fillets,2024-12-13 23:27:16,546,1
+WF00005,3.99,"""Organic Broccoli Florets, 32 oz""",2024-12-13 23:27:16,546,1
+WF00006,7.49,"""Frozen Organic Fruit, Blueberries""",2024-12-13 23:27:16,546,1
+WF00007,3.99,"""Organic Packaged Vegetables, Green Beans - Trimmed, 12 oz""",2024-12-13 23:27:16,546,1
+WF00008,15.99,"""Extra Virgin Olive Oil - Cold Processed, Mediterranean Blend, 33.8 fl oz""",2024-12-13 23:27:16,546,1
+WF00009,5.99,Organic Spring Mix,2024-12-13 23:27:16,546,1
+WF00010,4.49,"""Grated Parmesan Cheese, 5 oz""",2024-12-13 23:27:16,546,1
+WF00011,6.49,Part-skim Shredded Mozzarella Cheese,2024-12-13 23:27:16,546,1
+WF00012,5.69,"""Organic Dried Mango, 8 oz""",2024-12-13 23:27:16,546,1
+WF00013,2.79,"""Produce - Packaged Vegetables, Broccoli - Florets""",2024-12-13 23:27:16,546,1
+WF00014,17.99,"""Organic Extra Virgin Olive Oil - Cold Processed, Mediterranean, 33.8 fl oz""",2024-12-13 23:27:16,546,1
+WF00015,9.99,Organic Honeycrisp Apple Bag,2024-12-13 23:27:16,546,1
+WF00016,4.99,Organic Carrots (5 Pound),2024-12-13 23:27:16,546,1
+WF00017,3.79,"""Coconut Water, 33.8 fl oz""",2024-12-13 23:27:16,546,1
+WF00018,8.99,"""Organic Cheese Shreds, Mozzarella""",2024-12-13 23:27:16,546,1
+WF00019,8.39,"""Organic Wild Blueberries, 32 oz""",2024-12-13 23:27:16,546,1
+WF00020,4.79,"""Butter, Unsalted 4 Quarters, 16 oz""",2024-12-13 23:27:16,546,1
+WF00021,5.99,"""Walnut Halves And Pieces, 16 oz""",2024-12-13 23:27:16,546,1
+WF00022,365,Organic Unsweetened Vanilla Almondmilk (64 Fl Oz),2024-12-13 23:27:16,546,1
+WF00023,3.49,Organic Unsweetened Vanilla Almondmilk (64 Fl Oz),2024-12-13 23:27:16,546,1
+WF00024,5.54,$4.99with Prime,2024-12-13 23:27:16,546,1
+WF00025,3.99,"""Organic Produce - Packaged Vegetables, Garlic - Peeled""",2024-12-13 23:27:16,546,1
+WF00026,3.99,Sliced Baby Bella Mushrooms,2024-12-13 23:27:16,546,1
+WF00027,5.49,Mozzarella String Cheese,2024-12-13 23:27:16,546,1
+WF00028,6.49,"""Shredded Mild Cheddar & Monterey Jack Cheese, 16 oz""",2024-12-13 23:27:16,546,1
+WF00029,3.79,"""Organic Tortillas, Flour - Burrito Size (6 Tortillas), 16 oz""",2024-12-13 23:27:16,546,1
+WF00030,5.49,"""Swiss Cheese Slices, 8 oz""",2024-12-13 23:27:16,546,1
+WF00031,16.99,Tilapia Fillet,2024-12-13 23:27:16,546,1
+WF00032,2,2 for $4.50with Prime,2024-12-13 23:27:16,546,1
+WF00033,8.99,"""Organic Raw Cashews, 10 oz""",2024-12-13 23:27:16,546,1
+WF00034,4.69,"""Cage-free Large Brown Grade A Eggs, 1 Doz.""",2024-12-13 23:27:16,546,1
+WF00035,6.69,Reduced Sodium Smokehouse Bacon,2024-12-13 23:27:16,546,1
+WF00036,5.67,"""Organic 100% Orange Juice No Pulp (Not From Concentrate), 59 oz""",2024-12-13 23:27:16,546,1
+WF00037,2.49,"""Organic Tortillas, Flour (6 Tortillas), 12 oz""",2024-12-13 23:27:16,546,1
+WF00038,1.49,"""Organic Shelf-Stable Beans, Garbanzo, 15.5 oz""",2024-12-13 23:27:16,546,1
+WF00039,15.49,"""Cashews Unsalted & Unroasted, 24 oz""",2024-12-13 23:27:16,546,1
+WF00040,2.79,"""Organic Broth, Chicken - Low Sodium, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00041,3.79,"""Shredded Monterey Jack & Cheddar, 8 oz""",2024-12-13 23:27:16,546,1
+WF00042,3.49,Organic Italian Mix (Triple-Washed),2024-12-13 23:27:16,546,1
+WF00043,2.99,"""Sandwich Bread, Whole Wheat (16 Slices), 24 oz""",2024-12-13 23:27:16,546,1
+WF00044,3.97,"""Organic 100% Orange - Peach - Mango Juice (From Concentrate), 59 fl oz""",2024-12-13 23:27:16,546,1
+WF00045,4.39,"""Lime Sparkling Water, 12 fl oz""",2024-12-13 23:27:16,546,1
+WF00046,9.49,"""Roasted And Salted Cashews, 16 oz""",2024-12-13 23:27:16,546,1
+WF00047,8.99,Packaged Sliced Lunchmeat Turkey Breast Oven-roasted - Value Pack,2024-12-13 23:27:16,546,1
+WF00048,4.99,"""Organic Large Brown Grade A Eggs, 1 Doz.""",2024-12-13 23:27:16,546,1
+WF00049,8.99,Bath Tissue Double Roll 260 Sheet 12 Count,2024-12-13 23:27:16,546,1
+WF00050,4.49,"""Four Cheese Thin Crust Pizza, 12.5 oz""",2024-12-13 23:27:16,546,1
+WF00051,1.59,"""Distilled Water, 1 gallon""",2024-12-13 23:27:16,546,1
+WF00052,9.99,"""Organic Extra Virgin Olive Oil - Cold Processed, Mediterranean, 16.9 fl oz""",2024-12-13 23:27:16,546,1
+WF00053,4.99,"""Vanilla Ice Cream, 1 each""",2024-12-13 23:27:16,546,1
+WF00054,1.87,"""Tandoori Naan, Rustic White (4 - 3oz Pieces)""",2024-12-13 23:27:16,546,1
+WF00055,4.39,"""Grapefruit Sparkling Water, 12 fl oz""",2024-12-13 23:27:16,546,1
+WF00056,6.29,"""Organic Jasmine Thai White Rice, 32 oz""",2024-12-13 23:27:16,546,1
+WF00057,2.39,"""Cream Cheese, 8 oz""",2024-12-13 23:27:16,546,1
+WF00058,5.69,"""Organic Dried Fruit Cranberries - Sweetened, 8 oz""",2024-12-13 23:27:16,546,1
+WF00059,5.99,"""Organic Greek Yogurt Plain, 32 oz""",2024-12-13 23:27:16,546,1
+WF00060,8.29,"""Organic Almonds Unroaasted & Unsalted, 10 oz""",2024-12-13 23:27:16,546,1
+WF00061,4.79,"""Almonds Sliced, 8 oz""",2024-12-13 23:27:16,546,1
+WF00062,3.69,Whole White Mushrooms,2024-12-13 23:27:16,546,1
+WF00063,5.99,"""Organic Greek Non-Fat - Plain Yogurt, 32 oz""",2024-12-13 23:27:16,546,1
+WF00064,2.79,"""Organic Shoestring French Fries (No Added Salt), 16 oz""",2024-12-13 23:27:16,546,1
+WF00065,2.79,"""Organic Broth, Chicken, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00066,4.49,"""Uncured Pepperoni Thin Crust Pizza, 13.3 oz""",2024-12-13 23:27:16,546,1
+WF00067,3.99,"""Whole Wheat Sandwich Bread, 20 oz""",2024-12-13 23:27:16,546,1
+WF00068,14.79,"""Almond Butter, Creamy, 28 oz""",2024-12-13 23:27:16,546,1
+WF00069,9.49,"""Organic Syrup Maple Grade A Medium Amber, 12 fl oz""",2024-12-13 23:27:16,546,1
+WF00070,3.29,"""Canned Wild Tuna, Albacore in Water No Salt Added (100% Pole & Line Caught), 5 oz""",2024-12-13 23:27:16,546,1
+WF00071,7.29,"""Organic Grade A Lowfat Milk, 1 each""",2024-12-13 23:27:16,546,1
+WF00072,3.69,Organic Sliced White Mushrooms,2024-12-13 23:27:16,546,1
+WF00073,3.49,"""Sharp Cheddar Cheese Bar, 8 oz""",2024-12-13 23:27:16,546,1
+WF00074,3.29,"""Organic Chopped Spinach, 16 oz""",2024-12-13 23:27:16,546,1
+WF00075,5.97,"""Extra Pulp Orange Juice, 59 fl oz""",2024-12-13 23:27:16,546,1
+WF00076,4.29,"""Organic Light Brown Sugar, 24 oz""",2024-12-13 23:27:16,546,1
+WF00077,4.49,"""Organic Golden Round Crackers, 12 oz""",2024-12-13 23:27:16,546,1
+WF00078,3.49,Organic Baby Carrots - Cut & Peeled,2024-12-13 23:27:16,546,1
+WF00079,3.99,"""Frozen Fruit, Dark Sweet Cherries""",2024-12-13 23:27:16,546,1
+WF00080,3.99,"""Mild Cheddar Cheese Slices, 8 oz""",2024-12-13 23:27:16,546,1
+WF00081,2.99,"""Organic Sour Cream, 16 oz""",2024-12-13 23:27:16,546,1
+WF00082,7.99,Bath Tissue Double Roll 286 Sheet 6 Count,2024-12-13 23:27:16,546,1
+WF00083,8.77,"""Organic 100% Orange Juice Calcium & Vitamin D (Not From Concentrate), 89 fl oz""",2024-12-13 23:27:16,546,1
+WF00084,3.79,"""Organic Cottage Cheese, 16 oz""",2024-12-13 23:27:16,546,1
+WF00085,7.29,"""Organic Cane Sugar, 64 oz""",2024-12-13 23:27:16,546,1
+WF00086,4.69,"""Outdoor Access Large White Grade A Eggs, 24 oz""",2024-12-13 23:27:16,546,1
+WF00087,6.19,"""Chopped Pecans Pieces, 8 oz""",2024-12-13 23:27:16,546,1
+WF00088,4.09,"""Organic Dark Sweet Cherries, 10 oz""",2024-12-13 23:27:16,546,1
+WF00089,1.49,"""Organic Cannellini Beans, 15.5 oz""",2024-12-13 23:27:16,546,1
+WF00090,3.99,"""Frozen Fruit, Blueberries""",2024-12-13 23:27:16,546,1
+WF00091,8.99,"""Organic Roasted Unsalted Cashews, 10 oz""",2024-12-13 23:27:16,546,1
+WF00092,2.49,Whole Chicken,2024-12-13 23:27:16,546,1
+WF00093,6.49,"""Shredded Mild Cheddar Cheese, 16 oz""",2024-12-13 23:27:16,546,1
+WF00094,2.39,"""Potato Chips, Sea Salt - Rippled, 10 oz""",2024-12-13 23:27:16,546,1
+WF00095,3.99,Organic Grape Tomatoes Pint,2024-12-13 23:27:16,546,1
+WF00096,1.99,"""Organic Pasta, Spaghetti, 16 oz""",2024-12-13 23:27:16,546,1
+WF00097,8.99,"""Sour Cherries, 8 oz""",2024-12-13 23:27:16,546,1
+WF00098,7.91,"""Spanakopita, 12oz""",2024-12-13 23:27:16,546,1
+WF00099,8.99,"""Roasted & Salted Macadamia Nuts, 8 oz""",2024-12-13 23:27:16,546,1
+WF00100,3.49,"""Frozen Organic Vegetables, Peas & Carrots""",2024-12-13 23:27:16,546,1
+WF00101,4.99,"""Organic Frozen Ice Cream Bars, Fudge 4pk, 10 fl oz""",2024-12-13 23:27:16,546,1
+WF00102,3.49,"""Vanilla Almondmilk, 64 fl oz""",2024-12-13 23:27:16,546,1
+WF00103,5.99,Organic Yellow Onion Bag,2024-12-13 23:27:16,546,1
+WF00104,4.09,Organic Berry Blend Frozen Fruit,2024-12-13 23:27:16,546,1
+WF00105,9.99,Lightly Breaded Fish Sticks,2024-12-13 23:27:16,546,1
+WF00106,1.19,"""Shelf-Stable Beans, Black - No Salt Added, 15 oz""",2024-12-13 23:27:16,546,1
+WF00107,5.29,"""Organic Light Amber Mountain Forest Honey, 12 oz""",2024-12-13 23:27:16,546,1
+WF00108,2.99,"""Sandwich Bread, 8 Grain (16 Slices), 24 oz""",2024-12-13 23:27:16,546,1
+WF00109,3.79,"""Frozen Organic Vegetables, Fire-Roasted Corn""",2024-12-13 23:27:16,546,1
+WF00110,11.29,"""Unsalted Deluxe Mixed Nuts, 16 oz""",2024-12-13 23:27:16,546,1
+WF00111,2.79,"""Organic Beef Broth, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00112,8.99,"""Organic Cashews, Dry Roasted & Salted, 10 oz""",2024-12-13 23:27:16,546,1
+WF00113,15.99,"""Organic Vanilla Extract, 4 fl oz""",2024-12-13 23:27:16,546,1
+WF00114,3.49,"""Organic Stir-Fry Blend, 16 oz""",2024-12-13 23:27:16,546,1
+WF00115,7.99,"""Organic Sundried Tomatoes In Extra Virgin Olive Oil, 8.5 oz""",2024-12-13 23:27:16,546,1
+WF00116,3.49,Frozen Organic Cut Green Beans,2024-12-13 23:27:16,546,1
+WF00117,6.49,"""Roasted And Salted Almonds, 16 oz""",2024-12-13 23:27:16,546,1
+WF00118,2.79,"""Organic Crinkle Cut Fries, 16 oz""",2024-12-13 23:27:16,546,1
+WF00119,14.99,Bath Tissue Double Roll 260 Sheet 24 Count,2024-12-13 23:27:16,546,1
+WF00120,5.29,"""Organic Large Omega-3 Brown Grade A Eggs, 1 Doz.""",2024-12-13 23:27:16,546,1
+WF00121,3.99,"""Multigrain Sandwich Bread, 20 oz""",2024-12-13 23:27:16,546,1
+WF00122,4.79,"""Organic Plain Yogurt (Low Fat), 32 oz""",2024-12-13 23:27:16,546,1
+WF00123,2.39,"""Organic Tortillas, Whole Wheat (6 Tortillas), 10.5 oz""",2024-12-13 23:27:16,546,1
+WF00124,4.29,"""Organic Buttermilk Ranch Dressing, 12 fl oz""",2024-12-13 23:27:16,546,1
+WF00125,4.29,"""Organic Orignial Hummus, 8 oz""",2024-12-13 23:27:16,546,1
+WF00126,3.99,"""Organic Original Water Crackers, 4.4 oz""",2024-12-13 23:27:16,546,1
+WF00127,8.99,"""Organic Light Amber Mountain Forest Honey, 24 oz""",2024-12-13 23:27:16,546,1
+WF00128,4.99,"""Organic Blueberry Greek Yogurt Low Fat Dessert Bars, 2.5 fl oz""",2024-12-13 23:27:16,546,1
+WF00129,9.99,"""Roasted & Salted Pistachios, 10 oz""",2024-12-13 23:27:16,546,1
+WF00130,5.49,"""Tater Puffs, 32 oz""",2024-12-13 23:27:16,546,1
+WF00131,4.19,"""Organic Peanut Butter Mini Sandwich Crackers, 7.5 oz""",2024-12-13 23:27:16,546,1
+WF00132,3.29,"""Dry Roasted and Salted Peanuts, 16 oz""",2024-12-13 23:27:16,546,1
+WF00133,3.49,"""Frozen Organic Vegetables, Butternut Squash""",2024-12-13 23:27:16,546,1
+WF00134,2.99,"""Organic Nonpareil Capers, 2 oz""",2024-12-13 23:27:16,546,1
+WF00135,4.49,"""Sea Salt Rippled Potato Chips Party Size, 20 oz""",2024-12-13 23:27:16,546,1
+WF00136,4.49,"""Frozen Organic Ice Cream, Vanilla Bean, 1 each""",2024-12-13 23:27:16,546,1
+WF00137,2,2 for $4.50with Prime,2024-12-13 23:27:16,546,1
+WF00138,3.99,"""Pitted Dates, 8 oz""",2024-12-13 23:27:16,546,1
+WF00139,3.49,"""Frozen Organic Vegetables, Edamame""",2024-12-13 23:27:16,546,1
+WF00140,15.99,"""Roasted & Salted California Almonds, 32 oz""",2024-12-13 23:27:16,546,1
+WF00141,2.49,Whole White Mushrooms,2024-12-13 23:27:16,546,1
+WF00142,6.79,"""Pita Chips, Sea Salt, 18 oz""",2024-12-13 23:27:16,546,1
+WF00143,9.99,"""Roasted Unsalted Pistachios, 10 oz""",2024-12-13 23:27:16,546,1
+WF00144,6.29,"""Organic White Basmati Indian Rice, 32 oz""",2024-12-13 23:27:16,546,1
+WF00145,6.79,"""Organic Refined Coconut Oil, 14 fl oz""",2024-12-13 23:27:16,546,1
+WF00146,3.99,"""Mango Fruit Bars, 16 fl oz""",2024-12-13 23:27:16,546,1
+WF00147,3.99,"""Strawberry Fruit Bars, 16 fl oz""",2024-12-13 23:27:16,546,1
+WF00148,2.99,"""Original Veggie Straws, 6 oz""",2024-12-13 23:27:16,546,1
+WF00149,4.49,"""Barbeque Chicken Thin Crust Pizza, 14.3 oz""",2024-12-13 23:27:16,546,1
+WF00150,2.47,"""Frozen Pancakes, Homestyle (6 Waffles)""",2024-12-13 23:27:16,546,1
+WF00151,1.99,"""Ripe Sliced Olives, 2.25 oz""",2024-12-13 23:27:16,546,1
+WF00152,3.69,"""Oat-Based Whipped Topping, 6.25 oz""",2024-12-13 23:27:16,546,1
+WF00153,4.49,"""Shaved Italian Cheese Blend, 5 oz""",2024-12-13 23:27:16,546,1
+WF00154,5.19,"""Chocolate Chip Two-bite® Cookies, 10.5 oz""",2024-12-13 23:27:16,546,1
+WF00155,4.99,$4.49with Prime,2024-12-13 23:27:16,546,1
+WF00156,5.69,"""Canola Cooking Oil, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00157,4.19,"""Organic Sweetened Condensed Milk, 14 oz""",2024-12-13 23:27:16,546,1
+WF00158,2.99,"""Veggie Chips (Seasoned Blend of Potato, Tomato & Spinach), 6 oz""",2024-12-13 23:27:16,546,1
+WF00159,6.99,"""Organic Grade A Golden Color Maple Syrup, 8 fl oz""",2024-12-13 23:27:16,546,1
+WF00160,8.29,"""Organic Almonds, Dry Roasted & Unsalted, 10 oz""",2024-12-13 23:27:16,546,1
+WF00161,4.19,"""Sea Salt Pita Chips, 9 oz""",2024-12-13 23:27:16,546,1
+WF00162,1.49,"""Organic Dark Red Kidney Beans, 15.5 oz""",2024-12-13 23:27:16,546,1
+WF00163,3.29,"""Organic Broth, Chicken - Low Sodium, 48 fl oz""",2024-12-13 23:27:16,546,1
+WF00164,3.79,"""Canned Wild Tuna, Albacore in Extra Virgin Olive Oil with Salt Added (100% Pole & Line Caught), 5 oz""",2024-12-13 23:27:16,546,1
+WF00165,8.29,"""Organic Almonds Roasted & Salted, 10 oz""",2024-12-13 23:27:16,546,1
+WF00166,2.99,"""Organic White Cheddar Popcorn, 4 oz""",2024-12-13 23:27:16,546,1
+WF00167,7.99,"""Organic Spinach Ricotta Ravioli, 22 oz""",2024-12-13 23:27:16,546,1
+WF00168,3.49,Frozen Organic Vegetables Haricots Verts (Extra-fine Green Beans),2024-12-13 23:27:16,546,1
+WF00169,4.79,"""Organic Yogurt Whole Milk - Vanilla, 32 oz""",2024-12-13 23:27:16,546,1
+WF00170,3.29,"""Organic Whole Leaf Spinach, 16 oz""",2024-12-13 23:27:16,546,1
+WF00171,2.99,"""Popcorn, Classic - Salted, 6 oz""",2024-12-13 23:27:16,546,1
+WF00172,7.39,"""Thai Curry Cashews, 12 oz""",2024-12-13 23:27:16,546,1
+WF00173,5.09,$4.58with Prime,2024-12-13 23:27:16,546,1
+WF00174,6.29,"""Organic Balsamic Vinegar Of Modena, 16.9 fl oz""",2024-12-13 23:27:16,546,1
+WF00175,2.19,"""Organic Tomato Sauce, 15 oz""",2024-12-13 23:27:16,546,1
+WF00176,2.89,"""Organic Unsweetened Vanilla Almond Milk, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00177,4.29,"""Organic Creamy Caesar Dressing, 12 fl oz""",2024-12-13 23:27:16,546,1
+WF00178,4.79,"""Organic Yogurt Lowfat - Vanilla, 32 oz""",2024-12-13 23:27:16,546,1
+WF00179,11.99,"""Aluminum Foil, 200 sq ft""",2024-12-13 23:27:16,546,1
+WF00180,8.29,"""Organic Almonds, Dry Roasted & Salted, 10 oz""",2024-12-13 23:27:16,546,1
+WF00181,2.39,"""Pretzel Twists, Salted, 8 oz""",2024-12-13 23:27:16,546,1
+WF00182,7.99,"""Epsom Salt, 96 oz""",2024-12-13 23:27:16,546,1
+WF00183,3.29,"""Frozen Organic Vegetables, California Style Blend""",2024-12-13 23:27:16,546,1
+WF00184,3.29,"""Canned Wild Tuna, Albacore in Water with Salt Added (100% Pole & Line Caught), 5 oz""",2024-12-13 23:27:16,546,1
+WF00185,3.49,"""Flour, All-Purpose, 5 lb""",2024-12-13 23:27:16,546,1
+WF00186,10.79,"""Organic Macadamia Nuts, 8 oz""",2024-12-13 23:27:16,546,1
+WF00187,2.69,"""Shelf-Stable Artichoke Hearts, 14.1 oz""",2024-12-13 23:27:16,546,1
+WF00188,4.99,"""Organic Vanilla Chocolate Dipped Ice Cream Bar, 3 fl oz""",2024-12-13 23:27:16,546,1
+WF00189,5.19,"""Two Bite Brownies, 11.3 oz""",2024-12-13 23:27:16,546,1
+WF00190,4.79,"""Baking Chunks, Dark Chocolate, 12 oz""",2024-12-13 23:27:16,546,1
+WF00191,4.99,"""Organic Long Grain Brown Rice, 32 oz""",2024-12-13 23:27:16,546,1
+WF00192,3.49,"""Monterey Jack Cheese, 8 oz""",2024-12-13 23:27:16,546,1
+WF00193,6.29,"""Organic Hazelnut Cocoa Spread, 12.3 oz""",2024-12-13 23:27:16,546,1
+WF00194,2.39,"""Lavender Hand Sanitizing Wipes, 10 wipes""",2024-12-13 23:27:16,546,1
+WF00195,4.79,"""Organic Shelf-Stable Red Peppers, Fire Roasted, 16 oz""",2024-12-13 23:27:16,546,1
+WF00196,2.19,"""Shredded Hash Browns (No Added Salt), 16 oz""",2024-12-13 23:27:16,546,1
+WF00197,1.49,"""Organic Unsalted Garbanzo Beans, 13.4 oz""",2024-12-13 23:27:16,546,1
+WF00198,3.99,"""Reduced Fat Mild Cheddar Cheese Slices, 8 oz""",2024-12-13 23:27:16,546,1
+WF00199,3.49,"""Medium Cheddar Cheese, 8 oz""",2024-12-13 23:27:16,546,1
+WF00200,7.99,Tall Drawstring Flextra 13gl Kitchen Bags (38 Ct),2024-12-13 23:27:16,546,1
+WF00201,3.99,Frozen Organic Riced Cauliflower,2024-12-13 23:27:16,546,1
+WF00202,2.89,Creamy Peanut Butter (No Sugar Added) (16 Oz),2024-12-13 23:27:16,546,1
+WF00203,3.49,"""Organic Broth, Vegetable (Value Size), 48 fl oz""",2024-12-13 23:27:16,546,1
+WF00204,4.19,$3.77with Prime,2024-12-13 23:27:16,546,1
+WF00205,3.99,Savory Chicken Breakfast Sausage,2024-12-13 23:27:16,546,1
+WF00206,4.29,"""Belgian Waffles, 11.6 oz""",2024-12-13 23:27:16,546,1
+WF00207,3.49,"""Organic Lite Stevia Lemonade, 64 fl oz""",2024-12-13 23:27:16,546,1
+WF00208,4.99,"""Snack Crackers (Natural Buttery Flavor), 16 oz""",2024-12-13 23:27:16,546,1
+WF00209,2.39,"""Potato Chips, Cheddar & Sour Cream - Rippled, 10 oz""",2024-12-13 23:27:16,546,1
+WF00210,3.99,"""Sliced Kosher Cheddar, 8 oz""",2024-12-13 23:27:16,546,1
+WF00211,5.99,Mild Italian Pork Sausage,2024-12-13 23:27:16,546,1
+WF00212,7.49,"""Almond Flour, 16 oz""",2024-12-13 23:27:16,546,1
+WF00213,2.39,"""Pretels, Sticks - Salted, 8 oz""",2024-12-13 23:27:16,546,1
+WF00214,2.99,Organic Unsweetened Applesauce 4 Pack,2024-12-13 23:27:16,546,1
+WF00215,4.29,"""Covered Pretzels, Milk Chocolate, 5 oz""",2024-12-13 23:27:16,546,1
+WF00216,4.79,"""Organic Mini Sandwich Crackers, Peanut Butter 8pk, 1 each""",2024-12-13 23:27:16,546,1
+WF00217,3.49,"""Organic Mediterranean Vegetable Blend, 16 oz""",2024-12-13 23:27:16,546,1
+WF00218,2.39,"""Organic Shelf-Stable Tomatoes Diced, 14.5 oz""",2024-12-13 23:27:16,546,1
+WF00219,6.49,"""Baking Chips, Semi-Sweet Chocolate, 24 oz""",2024-12-13 23:27:16,546,1
+WF00220,3.49,Part-skim Mozzarella Cheese,2024-12-13 23:27:16,546,1
+WF00221,4.19,$3.77with Prime,2024-12-13 23:27:16,546,1
+WF00222,3.69,"""Organic Salad Dressing, Ranch, 16 fl oz""",2024-12-13 23:27:16,546,1
+WF00223,5.99,"""Extract, Vanilla, 2 fl oz""",2024-12-13 23:27:16,546,1
+WF00224,4.89,"""Vegetable Fried Rice, 20 oz""",2024-12-13 23:27:16,546,1
+WF00225,2.99,$2.69with Prime,2024-12-13 23:27:16,546,1
+WF00226,4.89,"""Chicken Fried Rice, 20 oz""",2024-12-13 23:27:16,546,1
+WF00227,3.79,"""Organic Brown Rice Crisps Cereal, 12 oz""",2024-12-13 23:27:16,546,1
+WF00228,3.79,"""Organic Apple Juice Boxes, 6.75 fl oz""",2024-12-13 23:27:16,546,1
+WF00229,3.99,"""Organic Hot Dog Buns, Classic White (8 Buns), 16 oz""",2024-12-13 23:27:16,546,1
+WF00230,3.49,"""Food Storage Freezer Bags - Gallon Size, 30 gallon size bags""",2024-12-13 23:27:16,546,1
+WF00231,4.49,"""Whole Milk, 1 gallon""",2024-12-13 23:27:16,546,1
+WF00232,4.19,"""Frozen Organic Quinoa, White""",2024-12-13 23:27:16,546,1
+WF00233,4.58,"""Uncured Pepperoni Rising Crust Pizza, 22.1 oz""",2024-12-13 23:27:16,546,1
+WF00234,2.29,"""Organic Dijon Mustard, 8 oz""",2024-12-13 23:27:16,546,1
+WF00235,3.69,"""Original Oatmilk, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00236,4.19,"""Pita Chips, Garlic & Herb, 9 oz""",2024-12-13 23:27:16,546,1
+WF00237,4.49,Frozen Mediterranean Thin Crust Pizza,2024-12-13 23:27:16,546,1
+WF00238,3.49,"""Organic Mango Lemonade, 64 fl oz""",2024-12-13 23:27:16,546,1
+WF00239,3.49,"""Shelf-Stable Parmesan Cheese - Grated, 8 oz""",2024-12-13 23:27:16,546,1
+WF00240,5.79,"""Organic Flour, Whole Wheat, 5 lb""",2024-12-13 23:27:16,546,1
+WF00241,3.29,"""Organic Lime Juice (Not from Concentrate), 10 fl oz""",2024-12-13 23:27:16,546,1
+WF00242,4.69,"""Toasted Sesame Seed Oil, 8.4 fl oz""",2024-12-13 23:27:16,546,1
+WF00243,1.49,"""Organic Taco Seasoning, 1 each""",2024-12-13 23:27:16,546,1
+WF00244,14.49,"""Almond Flour, 32 oz""",2024-12-13 23:27:16,546,1
+WF00245,3.49,"""Organic Light Mayo, Squeezable, 11.2 fl oz""",2024-12-13 23:27:16,546,1
+WF00246,2.69,"""Medium Black Olives (Pitted), 6 oz""",2024-12-13 23:27:16,546,1
+WF00247,3.99,"""Unbleached Parchment Paper, 72 sq ft""",2024-12-13 23:27:16,546,1
+WF00248,1.49,"""Organic Spicy Black Beans, 15 oz""",2024-12-13 23:27:16,546,1
+WF00249,5.09,"""Organic Raspberry Fruit Spread, 17 oz""",2024-12-13 23:27:16,546,1
+WF00250,2.47,Frozen Organic Mini Waffles,2024-12-13 23:27:16,546,1
+WF00251,2.99,"""Organic Extra Virgin Olive Oil and Sea Salt Popcorn, 5 oz""",2024-12-13 23:27:16,546,1
+WF00252,5.29,"""Organic Semi Sweet Chocolate Chips, 10 oz""",2024-12-13 23:27:16,546,1
+WF00253,6.49,"""Organic Canola Cooking Oil, 16 fl oz""",2024-12-13 23:27:16,546,1
+WF00254,3.49,"""Organic Green Lentils, 16 oz""",2024-12-13 23:27:16,546,1
+WF00255,3.49,"""Frozen Organic Vegetables, French-Style Green Beans""",2024-12-13 23:27:16,546,1
+WF00256,6.99,"""Organic Raw Agave Nectar, 23.5 oz""",2024-12-13 23:27:16,546,1
+WF00257,1.99,"""Organic Pasta, Linguine, 16 oz""",2024-12-13 23:27:16,546,1
+WF00258,2.29,"""Organic Pasta, Penne Rigate - Whole Wheat, 16 oz""",2024-12-13 23:27:16,546,1
+WF00259,3.19,"""Organic Shelf-Stable Tomatoes Diced, 28 oz""",2024-12-13 23:27:16,546,1
+WF00260,11.99,"""Lavender Foaming Hand Soap, 64 fl oz""",2024-12-13 23:27:16,546,1
+WF00261,3.79,"""Organic Yogurt Whole Milk - Strawberry (6 - 4 Ounce Cups), 24 oz""",2024-12-13 23:27:16,546,1
+WF00262,1.99,"""Stone Ground Corn Tortilla, 12 count""",2024-12-13 23:27:16,546,1
+WF00263,3.19,"""Organic Croutons, Caesar, 4.5 oz""",2024-12-13 23:27:16,546,1
+WF00264,3.69,"""Organic Salad Dressing, Italian, 16 fl oz""",2024-12-13 23:27:16,546,1
+WF00265,2.24,"""Grated Cotija Mexican Style-cheese, 4 oz""",2024-12-13 23:27:16,546,1
+WF00266,8.99,"""Amber Organic Mountain Forest Honey, 24 oz""",2024-12-13 23:27:16,546,1
+WF00267,6.99,"""Shredded Goat Cheese, 8 oz""",2024-12-13 23:27:16,546,1
+WF00268,11.99,Beer Battered Pollock,2024-12-13 23:27:16,546,1
+WF00269,7.79,"""Organic Unsweetened Dried Pineapple, 8 oz""",2024-12-13 23:27:16,546,1
+WF00270,3.39,"""Straight Cut Fries, 32 oz""",2024-12-13 23:27:16,546,1
+WF00271,3.89,"""Organic Multi Pack Vanilla Animal Cookie, 6.3 oz""",2024-12-13 23:27:16,546,1
+WF00272,3.99,"""Organic Tart Cherry Juice, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00273,11.99,"""Fragrance Free Foaming Hand Soap, 64 fl oz""",2024-12-13 23:27:16,546,1
+WF00274,5.09,"""Organic Fruit Spread, Mixed Berry, 17 oz""",2024-12-13 23:27:16,546,1
+WF00275,4.49,Chicken Thighs,2024-12-13 23:27:16,546,1
+WF00276,11.79,Bag Kitchen Tall Drawstring Flextra 13 Gallon,2024-12-13 23:27:16,546,1
+WF00277,4.29,"""Organic Blue Cheese Dressing, 12 fl oz""",2024-12-13 23:27:16,546,1
+WF00278,2.79,"""Buttermilk Pancakes, 12 pancakes""",2024-12-13 23:27:16,546,1
+WF00279,5.99,"""Wild Rice, 14 oz""",2024-12-13 23:27:16,546,1
+WF00280,4.99,"""Frozen Ice Cream, Cookie Dough, 1 each""",2024-12-13 23:27:16,546,1
+WF00281,9.49,"""Organic 100% Arabica Coffee, Ground - Medium Roast (Guatemalan), Vanilla, 12 oz""",2024-12-13 23:27:16,546,1
+WF00282,3.99,"""Cane Sugar, 64 oz""",2024-12-13 23:27:16,546,1
+WF00283,5.69,"""Sesame Seed Oil, 8.4 fl oz""",2024-12-13 23:27:16,546,1
+WF00284,8.99,Mild Cheddar Cheese,2024-12-13 23:27:16,546,1
+WF00285,3.89,"""Baking Chips, Mini Semi-Sweet Chocolate, 12 oz""",2024-12-13 23:27:16,546,1
+WF00286,2.39,"""Potato Chips, Sour Cream, 10 oz""",2024-12-13 23:27:16,546,1
+WF00287,20.99,"""Lavender Essential Oil, 2 fl oz""",2024-12-13 23:27:16,546,1
+WF00288,2.49,"""Organic Crushed Tomatoes No Salt Added, 15 oz""",2024-12-13 23:27:16,546,1
+WF00289,5.49,"""Organic Expeller Pressed Canola Oil Non-Stick Cooking Spray, 5 fl oz""",2024-12-13 23:27:16,546,1
+WF00290,2.69,"""Shelf-Stable Artichoke Hearts, 14.1 oz""",2024-12-13 23:27:16,546,1
+WF00291,3.79,"""Salad Cut Heart Of Palm, 14.1 oz""",2024-12-13 23:27:16,546,1
+WF00292,2.69,"""Baking Powder (Aluminum-Free), 10 oz""",2024-12-13 23:27:16,546,1
+WF00293,3.19,"""Organic Croutons, Garlic Butter, 4.5 oz""",2024-12-13 23:27:16,546,1
+WF00294,3.99,"""Organic Crackers, Water - Cracked Pepper, 4.4 oz""",2024-12-13 23:27:16,546,1
+WF00295,3.99,"""Cocktail Drink Mixes, Club Soda 6pk, 12 fl oz""",2024-12-13 23:27:16,546,1
+WF00296,3.79,"""Organic Unsweetened Original Coconutmilk, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00297,7.79,"""Cheese Lasagna, 22 oz""",2024-12-13 23:27:16,546,1
+WF00298,2.77,"""Freeze-Dried Fruit Slices, Mango, 1 each""",2024-12-13 23:27:16,546,1
+WF00299,2.99,"""Organic Pasta Sauce, Marinara - Fat Free, 25 oz""",2024-12-13 23:27:16,546,1
+WF00300,1.09,"""Baking Soda, 16 oz""",2024-12-13 23:27:16,546,1
+WF00301,4.99,"""Organic Diced Peaches, 16 oz""",2024-12-13 23:27:16,546,1
+WF00302,2.99,"""Organic Arrabbiata Pasta Sauce, 25 oz""",2024-12-13 23:27:16,546,1
+WF00303,2.79,"""Italian Style Bread Crumbs, 15 oz""",2024-12-13 23:27:16,546,1
+WF00304,4.49,"""Crackers, Cracked Wheat, 10.6 oz""",2024-12-13 23:27:16,546,1
+WF00305,2.17,"""Taqueria Medium Small Batch Salsa, 16 oz""",2024-12-13 23:27:16,546,1
+WF00306,6.99,"""Plant-Based Food Coloring, 1 each""",2024-12-13 23:27:16,546,1
+WF00307,2.99,Organic Lowfat 1% Milk,2024-12-13 23:27:16,546,1
+WF00308,3.95,Mozzarella Sticks,2024-12-13 23:27:16,546,1
+WF00309,4.49,"""Grade A Reduced Fat Milk, 1 gallon""",2024-12-13 23:27:16,546,1
+WF00310,2.49,"""Frozen Vegetables, Cut Okra""",2024-12-13 23:27:16,546,1
+WF00311,1.99,"""Organic Pasta, Fettuccine, 16 oz""",2024-12-13 23:27:16,546,1
+WF00312,4.29,"""Black Peppercorns Grinder, 1 each""",2024-12-13 23:27:16,546,1
+WF00313,3.49,"""Chocolate & Vanilla Almondmilk Pudding, 15 oz""",2024-12-13 23:27:16,546,1
+WF00314,2.99,"""Organic Pasta Sauce, Portobello, 25 oz""",2024-12-13 23:27:16,546,1
+WF00315,5.29,"""Organic Raisin Granola, 17 oz""",2024-12-13 23:27:16,546,1
+WF00316,3.99,"""Organic Hamburger Buns, Whole Wheat (8 Buns), 16 oz""",2024-12-13 23:27:16,546,1
+WF00317,4.99,"""Cranberry Juice (From Concentrate), 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00318,4.99,"""Coffee Ice Cream, 1 each""",2024-12-13 23:27:16,546,1
+WF00319,2.29,"""Organic Sauce, Worcestershire, 5 fl oz""",2024-12-13 23:27:16,546,1
+WF00320,2.49,"""Frozen Vegetables, Mixed - No Salt Added""",2024-12-13 23:27:16,546,1
+WF00321,4.99,"""Organic Hulled Hemp Seed, 4 oz""",2024-12-13 23:27:16,546,1
+WF00322,3.89,"""Baking Chips, Jumbo Milk Chocolate, 10 oz""",2024-12-13 23:27:16,546,1
+WF00323,2.49,"""Pasta, Lasagna - No Boil, 16 oz""",2024-12-13 23:27:16,546,1
+WF00324,2.69,"""Organic Jellied Cranberry Sauce, 14 oz""",2024-12-13 23:27:16,546,1
+WF00325,5.99,Mozzarella Bar,2024-12-13 23:27:16,546,1
+WF00326,2.79,"""Quart Double Zipper Freezer Bag, 40 quart size bags""",2024-12-13 23:27:16,546,1
+WF00327,6.29,"""Organic Brown Basmati Indian Rice, 32 oz""",2024-12-13 23:27:16,546,1
+WF00328,3.79,"""Organic Wheat Waffles Cereal, 13 oz""",2024-12-13 23:27:16,546,1
+WF00329,5.49,"""Shoyu Soy Sauce, 20 oz""",2024-12-13 23:27:16,546,1
+WF00330,4.29,Organic Garlic Granules (2.57 Oz),2024-12-13 23:27:16,546,1
+WF00331,4.19,"""Onion Rings, 14 oz""",2024-12-13 23:27:16,546,1
+WF00332,2.79,"""Grapefruit Dish Soap, 24 fl oz""",2024-12-13 23:27:16,546,1
+WF00333,9.39,"""Eggplant Parmesan, 17 oz""",2024-12-13 23:27:16,546,1
+WF00334,3.29,"""Seasonings Sea Salt, 3.5 oz""",2024-12-13 23:27:16,546,1
+WF00335,4.29,Organic Onion Powder (1.73 Oz),2024-12-13 23:27:16,546,1
+WF00336,5.99,Hot Italian Pork Sausage,2024-12-13 23:27:16,546,1
+WF00337,5.49,"""Farmer Cheese, 16 oz""",2024-12-13 23:27:16,546,1
+WF00338,4.69,"""Peanut Butter Cups, Milk Chocolate, 4.7 oz""",2024-12-13 23:27:16,546,1
+WF00339,4.49,"""Pickles, Kosher Dills, 24 Fl. Oz.""",2024-12-13 23:27:16,546,1
+WF00340,6.99,"""Organic Vinegar, Apple Cider - Raw, 32 fl""",2024-12-13 23:27:16,546,1
+WF00341,4.49,"""Cookies & Cream Ice Cream, 1 each""",2024-12-13 23:27:16,546,1
+WF00342,3.59,"""Organic Sweet Relish, 10 fl oz""",2024-12-13 23:27:16,546,1
+WF00343,3.69,"""Organic Salad Dressing, Light Ranch, 16 fl oz""",2024-12-13 23:27:16,546,1
+WF00344,4.99,"""Seasoning, Garlic Granules, 9.59 oz""",2024-12-13 23:27:16,546,1
+WF00345,3.49,"""Organic Condiment Sauce, Shoyu Soy, 10 oz""",2024-12-13 23:27:16,546,1
+WF00346,12.99,"""Lavender Citrus Concentrated Laundry Detergent, 100 fl oz""",2024-12-13 23:27:16,546,1
+WF00347,2.99,"""Organic Sauce, Tartar, 10 fl oz""",2024-12-13 23:27:16,546,1
+WF00348,4.29,"""Organic Seasonings Bay Leaves, 0.15 oz""",2024-12-13 23:27:16,546,1
+WF00349,2.89,Organic Vanilla Almondmilk (32 Fl Oz),2024-12-13 23:27:16,546,1
+WF00350,1.49,"""Organic Canned Beans, Navy, 15.5 oz""",2024-12-13 23:27:16,546,1
+WF00351,97,"""Lemonade, 15.2 fl oz""",2024-12-13 23:27:16,546,1
+WF00352,5.89,"""Organic Basmati Rice, 20 oz""",2024-12-13 23:27:16,546,1
+WF00353,7.49,"""Trash Bags, Drawstring, Flextra, 25 Count, 30 gallon size bags""",2024-12-13 23:27:16,546,1
+WF00354,1.19,"""Pasta, Elbows, 16 oz""",2024-12-13 23:27:16,546,1
+WF00355,5.09,"""Organic Cookies, Oatmeal Raisin, 12 oz""",2024-12-13 23:27:16,546,1
+WF00356,5.49,"""Organic Whole Wheat Thin & Crispy Pizza Crust, 10 oz""",2024-12-13 23:27:16,546,1
+WF00357,2.39,"""Potato Chips, Barbecue|, 10 oz""",2024-12-13 23:27:16,546,1
+WF00358,4.69,"""Organic Milk Chocolate Flavor Mix Hot Cocoa Mix, 10 oz""",2024-12-13 23:27:16,546,1
+WF00359,2.27,"""Peach Habanero Salsa, 16 oz""",2024-12-13 23:27:16,546,1
+WF00360,5.49,"""Thin & Crispy Rustic White Pizza Crusts 2pk, 10 oz""",2024-12-13 23:27:16,546,1
+WF00361,13.79,"""Aromatherapy Carrier Oil, Softening Sweet Almond Oil (Skin & Hair Care), 16 fl oz""",2024-12-13 23:27:16,546,1
+WF00362,3.49,Surimi Seafood Stick Style,2024-12-13 23:27:16,546,1
+WF00363,2.49,"""Brussels Sprouts - Petite, 16 oz""",2024-12-13 23:27:16,546,1
+WF00364,4.49,"""Organic Shelf-stable Pickles Dill - Reduced Sodium, 24 fl oz""",2024-12-13 23:27:16,546,1
+WF00365,2.89,"""Original Almondmilk, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00366,1.99,"""Corn Starch, 16 oz""",2024-12-13 23:27:16,546,1
+WF00367,4.49,"""Long Grain Brown Rice, 80 oz""",2024-12-13 23:27:16,546,1
+WF00368,4.29,Organic Oregano (0.35 Oz),2024-12-13 23:27:16,546,1
+WF00369,3.99,"""Organic Cheddar Squares, 7 oz""",2024-12-13 23:27:16,546,1
+WF00370,2.29,"""Ready-to-Heat Mixes, Spelt, Lentils & Brown Rice, 8.8 oz""",2024-12-13 23:27:16,546,1
+WF00371,4.99,"""Frozen Ice Cream, Butter Pecan, 1 each""",2024-12-13 23:27:16,546,1
+WF00372,4.79,"""Organic Shelf-Stable Juice, Concord Grape - No Sugar Added, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00373,6.99,"""Mango Fruit Bites, 6 oz""",2024-12-13 23:27:16,546,1
+WF00374,1.49,"""Organic Shelf-Stable Beans, Kidney - No Salt Added, 13.4 oz""",2024-12-13 23:27:16,546,1
+WF00375,2.29,"""Barbecue Sauce, Original, 19.5 oz""",2024-12-13 23:27:16,546,1
+WF00376,2.59,"""Grade A Whole Milk, 64 fl oz""",2024-12-13 23:27:16,546,1
+WF00377,4.99,"""Limited Edition Organic Candy Canes, Peppermint, 5 oz""",2024-12-13 23:27:16,546,1
+WF00378,9.49,"""Organic Mocha Coffee-Ground, 12 oz""",2024-12-13 23:27:16,546,1
+WF00379,11.29,"""Family-Size Cheese Manicotti, 25 oz""",2024-12-13 23:27:16,546,1
+WF00380,3.59,"""Baking Mix, Cornbread & Muffin, 15 oz""",2024-12-13 23:27:16,546,1
+WF00381,14.99,"""Granulated Monk Fruit, 32 oz""",2024-12-13 23:27:16,546,1
+WF00382,4.19,"""Organic Chocolate Chip Animal Cookie, 11 oz""",2024-12-13 23:27:16,546,1
+WF00383,11.99,"""Satsuma Eucalyptus Foaming Hand Soap Refill, 64 fl oz""",2024-12-13 23:27:16,546,1
+WF00384,3.99,"""Cocktail Drink Mixes, Tonic Water, 12 fl oz""",2024-12-13 23:27:16,546,1
+WF00385,3.69,"""Vanilla Oatmilk, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00386,3.29,"""Korintje Ground Cinnamon, 2.01 oz""",2024-12-13 23:27:16,546,1
+WF00387,2.59,"""Grade A Reduced Fat Milk, 64 fl oz""",2024-12-13 23:27:16,546,1
+WF00388,2.29,"""Honey Organic Mustard, 8 oz""",2024-12-13 23:27:16,546,1
+WF00389,3.99,"""Simmer Sauce, Tikka Masala - Hot, 12 oz""",2024-12-13 23:27:16,546,1
+WF00390,3.77,"""Oaxaca Part-Skim Milk Cheese, 8 oz""",2024-12-13 23:27:16,546,1
+WF00391,4.29,"""Organic Seasoning, Paprika, 1 each""",2024-12-13 23:27:16,546,1
+WF00392,5.29,"""Fruit And Nut Muesli Cereal, 17 oz""",2024-12-13 23:27:16,546,1
+WF00393,6.69,"""Organic Peppered Turkey Jerky, 3 oz""",2024-12-13 23:27:16,546,1
+WF00394,4.99,"""Organic Peaches & Pears, 4 oz""",2024-12-13 23:27:16,546,1
+WF00395,4.29,"""Organic Italian Vinaigrette, 12 fl oz""",2024-12-13 23:27:16,546,1
+WF00396,12.99,"""Supplements - Vitamins, C 500mg - Chewable, 100 vegan tablets""",2024-12-13 23:27:16,546,1
+WF00397,1.29,"""Potato Chips Sea Salt - Rippled Snack Size, 1 each""",2024-12-13 23:27:16,546,1
+WF00398,3.69,"""Organic Salad Dressing, Thousand Island, 16 fl oz""",2024-12-13 23:27:16,546,1
+WF00399,3.79,"""Raspberry Chocolate Chip Ice Cream, 1 each""",2024-12-13 23:27:16,546,1
+WF00400,2.99,"""Double Zip Quart Storage Bags, 50 quart size bags""",2024-12-13 23:27:16,546,1
+WF00401,3.29,"""Sushi White Short Grain Rice, 16 oz""",2024-12-13 23:27:16,546,1
+WF00402,3.49,"""Mint Garden Foaming Hand Soap, 12 fl oz""",2024-12-13 23:27:16,546,1
+WF00403,4.29,"""Organic Italian Seasoning, 0.46 oz""",2024-12-13 23:27:16,546,1
+WF00404,3.29,"""Paprika, 1 each""",2024-12-13 23:27:16,546,1
+WF00405,3.79,"""Organic Reduced Sugar Watermelon Strawberry Juice Box 8pk, 6.75 fl oz""",2024-12-13 23:27:16,546,1
+WF00406,5.49,"""Organic Shelf-Stable Apple Juice - Gravenstein, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00407,1.49,"""Organic Refried Black Beans, 16 oz""",2024-12-13 23:27:16,546,1
+WF00408,4.09,"""Organic Spinach Ricotta Ravioli, 8 oz""",2024-12-13 23:27:16,546,1
+WF00409,4.29,Organic Thyme (0.67 Oz),2024-12-13 23:27:16,546,1
+WF00410,3.88,$3.49with Prime,2024-12-13 23:27:16,546,1
+WF00411,3.79,"""Gouda Cheese Shreds, 8 oz""",2024-12-13 23:27:16,546,1
+WF00412,3.49,"""Texas Bbq Kettle Chip, 10 oz""",2024-12-13 23:27:16,546,1
+WF00413,5.99,"""Lemongrass Dishwasher Powdered Detergent Packs, 18 packs""",2024-12-13 23:27:16,546,1
+WF00414,2.79,"""Organic Straight Cut Fries, 16 oz""",2024-12-13 23:27:16,546,1
+WF00415,3.29,"""Rainbow Sprinkles, 2.75 oz""",2024-12-13 23:27:16,546,1
+WF00416,3.39,"""Mandarin Oranges (4-pk), 16 oz""",2024-12-13 23:27:16,546,1
+WF00417,2.39,"""Organic Shelf-Stable Tomatoes, Diced (with Basil, Garlic, & Oregano), 14.5 oz""",2024-12-13 23:27:16,546,1
+WF00418,3.19,"""Organic Great Northern Beans, 16 oz""",2024-12-13 23:27:16,546,1
+WF00419,3.99,"""Organic Barbecue Sauce, Texas True, 18 oz""",2024-12-13 23:27:16,546,1
+WF00420,2.79,Whole Baby Bella Mushrooms,2024-12-13 23:27:16,546,1
+WF00421,5.09,"""Organic Blackberry Fruit Spread, 17 oz""",2024-12-13 23:27:16,546,1
+WF00422,4.69,"""Cookie Dough Almondmilk Non-Dairy Frozen Dessert, 1 each""",2024-12-13 23:27:16,546,1
+WF00423,5.99,"""Oxygen Whitening Powder, 32 oz""",2024-12-13 23:27:16,546,1
+WF00424,9.99,"""Limited Edition Organic Candy Canes Peppermint, 21.2 oz""",2024-12-13 23:27:16,546,1
+WF00425,6.49,"""Decaf House Blend Amer Roast Pods, 4.6 oz""",2024-12-13 23:27:16,546,1
+WF00426,8.09,"""Tea Tree Essential Oil, 1 each""",2024-12-13 23:27:16,546,1
+WF00427,3.49,"""Lavender Liquid Hand Soap, 12.5 fl oz""",2024-12-13 23:27:16,546,1
+WF00428,3.79,"""Chocolate Peanut Butter Ice Cream, 1 each""",2024-12-13 23:27:16,546,1
+WF00429,1.79,"""Canned Vegetables, Beets - Sliced, 15 oz""",2024-12-13 23:27:16,546,1
+WF00430,4.39,"""Soft & Strong Baby Wipes, 100 wipes""",2024-12-13 23:27:16,546,1
+WF00431,5.99,"""Organic Ground Cardamom, 1 each""",2024-12-13 23:27:16,546,1
+WF00432,2.29,"""German Mustard, 8 oz""",2024-12-13 23:27:16,546,1
+WF00433,2.79,"""White Wine Vinegar, 16.9 fl oz""",2024-12-13 23:27:16,546,1
+WF00434,3.79,"""Caramel Chocolate Cheesecake Ice Cream, 1 each""",2024-12-13 23:27:16,546,1
+WF00435,4.29,"""Organic Thin & Crispy Rustic White Pizza Crust 2pk, 3.5 oz""",2024-12-13 23:27:16,546,1
+WF00436,2.79,"""Organic Macaroni And Cheese, 6 oz""",2024-12-13 23:27:16,546,1
+WF00437,3.39,"""Garlic And Olive Oil Couscous, 5.8 oz""",2024-12-13 23:27:16,546,1
+WF00438,3.29,"""Ground Nutmeg, 1 each""",2024-12-13 23:27:16,546,1
+WF00439,1.19,"""Canned Beans, Black-Eyed Peas, 15.5 oz""",2024-12-13 23:27:16,546,1
+WF00440,4.69,"""Non-Dairy Frozen Dessert, Almondmilk - Berry Chantilly Cake, 1 each""",2024-12-13 23:27:16,546,1
+WF00441,6.49,"""Organic Bean Dip, 15 oz""",2024-12-13 23:27:16,546,1
+WF00442,3.29,Oregano (0.32 Oz),2024-12-13 23:27:16,546,1
+WF00443,3.29,"""Seasonings, Sea Salt - Coarse, 24.7 oz""",2024-12-13 23:27:16,546,1
+WF00444,9.69,"""Organic Granulated Erythritol, 16 oz""",2024-12-13 23:27:16,546,1
+WF00445,5.99,"""Hot & Spicy Beef Jerky, 3 oz""",2024-12-13 23:27:16,546,1
+WF00446,7.29,"""Decaf Instant Coffee, 3.5 oz""",2024-12-13 23:27:16,546,1
+WF00447,1.49,"""Spring Water, 1 gal""",2024-12-13 23:27:16,546,1
+WF00448,4.79,"""Ground Korintje Cinnamon, 8.08 oz""",2024-12-13 23:27:16,546,1
+WF00449,2.85,"""Gluten Free Dinner Rolls, 7.7 oz""",2024-12-13 23:27:16,546,1
+WF00450,25.99,"""Aromatherapy Carrier Oil Moisturizing Fractionated Coconut Oil (Skin & Hair Care), 16 fl oz""",2024-12-13 23:27:16,546,1
+WF00451,4.29,Organic Ground Coriander (1.52 Oz),2024-12-13 23:27:16,546,1
+WF00452,3.99,"""Popcorn Kernels, Heirloom, 20 oz""",2024-12-13 23:27:16,546,1
+WF00453,99,"""Organic Yogurt Whole Milk - Blueberry, 5.3 oz""",2024-12-13 23:27:16,546,1
+WF00454,3.29,"""Crushed Red Pepper, 0.99 oz""",2024-12-13 23:27:16,546,1
+WF00455,3.29,"""Organic Bread Flour, 32 oz""",2024-12-13 23:27:16,546,1
+WF00456,3.29,"""Seasonings Thyme, 0.49 oz""",2024-12-13 23:27:16,546,1
+WF00457,99,"""Organic Mozzarella String Cheese, 1 each""",2024-12-13 23:27:16,546,1
+WF00458,13.99,"""Reduced Sodium Original Family Size Beef Jerky, 8 oz""",2024-12-13 23:27:16,546,1
+WF00459,3.49,"""Anjou Pear Foaming Hand Soap, 12 fl oz""",2024-12-13 23:27:16,546,1
+WF00460,2.89,"""Organic Flour, Whole Wheat Pastry, 32 oz""",2024-12-13 23:27:16,546,1
+WF00461,5.99,"""Lavender Fabric-softening Dryer Sheets, 80 sheets""",2024-12-13 23:27:16,546,1
+WF00462,3.49,"""Liquid Hand Soap, Fragrance Free, 12.5 fl oz""",2024-12-13 23:27:16,546,1
+WF00463,3.49,"""Organic Rice Pilaf, Long Grain & Wild Rice, 6 oz""",2024-12-13 23:27:16,546,1
+WF00464,3.29,"""Ground Ginger, 1 each""",2024-12-13 23:27:16,546,1
+WF00465,9.79,"""Volume & Thick Shampoo Rosemary Mint, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00466,5.79,Chili Powder Blend (7.62 Oz),2024-12-13 23:27:16,546,1
+WF00467,2.29,"""Organic Canned Vegetables, Sweet Peas, 15 oz""",2024-12-13 23:27:16,546,1
+WF00468,8.69,"""Kid's Sunscreen Clear Spray, 5.3 oz""",2024-12-13 23:27:16,546,1
+WF00469,9.49,"""Rosemary Essential Oil, 1 each""",2024-12-13 23:27:16,546,1
+WF00470,9.49,"""Organic La Bailarina Spanish Roast, 4.6 oz""",2024-12-13 23:27:16,546,1
+WF00471,1.49,"""Organic Roasted Chili & Lime Refried Pinto Beans, 16 oz""",2024-12-13 23:27:16,546,1
+WF00472,2.49,"""Mineral Spring Water, 25.3 fl oz""",2024-12-13 23:27:16,546,1
+WF00473,8.99,Mild Cheddar Cheese,2024-12-13 23:27:16,546,1
+WF00474,4.49,"""Organic Toffee Caramel Ice Cream, 1 each""",2024-12-13 23:27:16,546,1
+WF00475,14.99,"""Psyllium Husk Vegetarian Capsules, 500 mg, 180 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00476,9.49,"""Aromatherapy Carrier Oil, Fortifying Jojoba Oil (Skin & Hair Care), 4 fl oz""",2024-12-13 23:27:16,546,1
+WF00477,2.99,"""Jalapeño Hot Sauce, 5 fl oz""",2024-12-13 23:27:16,546,1
+WF00478,4.29,"""Organic Honey Soy Ginger Marinade, 12 fl oz""",2024-12-13 23:27:16,546,1
+WF00479,2.29,"""Instant Mashed Potatoes, Original, 8 oz""",2024-12-13 23:27:16,546,1
+WF00480,9.79,"""Moisture & Shine Shampoo Lavender, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00481,3.99,"""Organic Seasoned Rice Vinegar, 12.7 fl oz""",2024-12-13 23:27:16,546,1
+WF00482,9.99,"""Soft & Gentle Ultra-Absorbent Diapers Size 6, 20 diapers""",2024-12-13 23:27:16,546,1
+WF00483,2.49,"""Organic Soup, Cream of Mushroom, 11 oz""",2024-12-13 23:27:16,546,1
+WF00484,4.19,"""Triple Milled Glycerin Soap, Color & Fragrance Free, 4 oz""",2024-12-13 23:27:16,546,1
+WF00485,3.29,"""Ground Turmeric, 1 each""",2024-12-13 23:27:16,546,1
+WF00486,4.99,"""Roasted Peanut Oil, 8.4 fl oz""",2024-12-13 23:27:16,546,1
+WF00487,4.29,"""Cloves Whole, 1 each""",2024-12-13 23:27:16,546,1
+WF00488,4.29,Organic Dill Weed (0.46 Oz),2024-12-13 23:27:16,546,1
+WF00489,3.39,"""Baking Mix, Cake - Classic Yellow, 16 oz""",2024-12-13 23:27:16,546,1
+WF00490,9.99,"""Mineral Sport Lotion Sunscreen (SPF 30), 6 fl oz""",2024-12-13 23:27:16,546,1
+WF00491,1.59,"""Organic Pear Carrot Broccoli Baby Food, 4 oz""",2024-12-13 23:27:16,546,1
+WF00492,5.19,Fudge Brownie Mix 15 Ounce,2024-12-13 23:27:16,546,1
+WF00493,4.49,"""Fruit Pop-ups Grape, Cherry, Orange, 18 fl oz""",2024-12-13 23:27:16,546,1
+WF00494,4.49,"""Grade A Lowfat Milk, 1 each""",2024-12-13 23:27:16,546,1
+WF00495,4.09,"""Micellar water cleansing towelettes, 30 premoistened towelettes""",2024-12-13 23:27:16,546,1
+WF00496,4.29,"""Peppercorns Black Og, 1 each""",2024-12-13 23:27:16,546,1
+WF00497,2.79,"""Organic Sauce, Steak, 10 oz""",2024-12-13 23:27:16,546,1
+WF00498,3.29,"""Seasoning, White Pepper - Ground, 1 each""",2024-12-13 23:27:16,546,1
+WF00499,3.49,"""Liquid Hand Soap Anjou Pear, 12.5 fl oz""",2024-12-13 23:27:16,546,1
+WF00500,6.69,"""Organic Cheddar Chicks Cheese Crackers, 1 each""",2024-12-13 23:27:16,546,1
+WF00501,11.99,"""Anjou Pear Foaming Hand Soap Refill, 64 fl oz""",2024-12-13 23:27:16,546,1
+WF00502,3.29,Dried Basil (0.53 Oz),2024-12-13 23:27:16,546,1
+WF00503,1.67,"""Crispy Onions, 8 oz""",2024-12-13 23:27:16,546,1
+WF00504,3.89,"""Isopropal Alcohol, 16 fl oz""",2024-12-13 23:27:16,546,1
+WF00505,1.69,"""Double Zipper Quart Storage Bag, 25 sacs moyens""",2024-12-13 23:27:16,546,1
+WF00506,3.29,Dried Parsley (0.25 Oz),2024-12-13 23:27:16,546,1
+WF00507,3.79,"""Toffee Almond Fudge Ice Cream, 1 each""",2024-12-13 23:27:16,546,1
+WF00508,3.29,"""Oregano, 1 each""",2024-12-13 23:27:16,546,1
+WF00509,1.29,"""Macaroni & Cheese, 7.25 oz""",2024-12-13 23:27:16,546,1
+WF00510,3.29,"""Cinnamon Sticks, 1 each""",2024-12-13 23:27:16,546,1
+WF00511,6.49,"""Volume & Thick Shampoo Rosemary Mint, 16 fl oz""",2024-12-13 23:27:16,546,1
+WF00512,3.29,"""Seasoning, Black Peppercorns, 1 each""",2024-12-13 23:27:16,546,1
+WF00513,1.47,"""Organic Turkey Gravy, 12 oz""",2024-12-13 23:27:16,546,1
+WF00514,1.49,"""Canned Fruit, Mandarin Oranges In Pear Juice from Concentrate, 10.5 oz""",2024-12-13 23:27:16,546,1
+WF00515,6.99,"""Espresso Single Serve Instant Coffee, 0.1 oz""",2024-12-13 23:27:16,546,1
+WF00516,4.99,"""Gingerbread Cookie With Cream Cheese Filling, 10.6 oz""",2024-12-13 23:27:16,546,1
+WF00517,3.29,"""Organic Ginger Turmeric Shot, 2 fl oz""",2024-12-13 23:27:16,546,1
+WF00518,5.99,"""Organic Hot Cocoa Ice Cream Sandwiches, 3.65 fl oz""",2024-12-13 23:27:16,546,1
+WF00519,5.79,"""Expeller Pressed Almond Oil, 8.4 fl oz""",2024-12-13 23:27:16,546,1
+WF00520,9.89,"""Colloidal Fragrance Free Body Lotion, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00521,5.99,"""Unscented Fabric-softening Dryer Sheets, 80 sheets""",2024-12-13 23:27:16,546,1
+WF00522,8.39,"""Fragrance Free Colloidal Body Wash, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00523,5.99,"""Rose Petal with Himalayan Salt Bath Soak 6 Count, 7.5 oz""",2024-12-13 23:27:16,546,1
+WF00524,4.29,"""Organic Seasonings Cumin Seed, 1 each""",2024-12-13 23:27:16,546,1
+WF00525,6.49,"""Moisture & Shine Shampoo Lavender, 16 fl oz""",2024-12-13 23:27:16,546,1
+WF00526,3.99,"""Simmer Sauce, Madras Curry - Hot, 12 oz""",2024-12-13 23:27:16,546,1
+WF00527,8.49,"""Organic Pacific Rim Vienna Roast Whole Bean Coffee, 10 oz""",2024-12-13 23:27:16,546,1
+WF00528,1.29,"""Grade A Whole Milk, 1 pint""",2024-12-13 23:27:16,546,1
+WF00529,9.99,"""Eucalyptus Cbd Infused Epsom Salt, 8 oz""",2024-12-13 23:27:16,546,1
+WF00530,2.99,"""Vanilla Cashew Almond Protein Chewy Bites, 1 each""",2024-12-13 23:27:16,546,1
+WF00531,2.29,"""Organic Frozen Fruit, Cranberries - Whole""",2024-12-13 23:27:16,546,1
+WF00532,3.29,"""Roasted Garlic Granules, 2.19 oz""",2024-12-13 23:27:16,546,1
+WF00533,1.59,"""Organic Apple Pumpkin with Quinoa & Cinnamon Baby Food, 4 oz""",2024-12-13 23:27:16,546,1
+WF00534,5.19,"""Baking Mix, Cake - Classic Yellow - Gluten Free, 16 oz""",2024-12-13 23:27:16,546,1
+WF00535,2.99,"""Coconut Macadamia Protein Chewy Bites, 1 each""",2024-12-13 23:27:16,546,1
+WF00536,4.19,"""Organic Black Iced Tea, 4.6 oz""",2024-12-13 23:27:16,546,1
+WF00537,3.99,"""Simmer Sauce, Vindaloo Curry - Medium, 12 oz""",2024-12-13 23:27:16,546,1
+WF00538,5.99,Sliced Oven Roasted Chicken,2024-12-13 23:27:16,546,1
+WF00539,3.29,"""Fennel Seed, 1 each""",2024-12-13 23:27:16,546,1
+WF00540,3.29,"""Poppy Seed, 2.01 oz""",2024-12-13 23:27:16,546,1
+WF00541,1.29,"""Grade A Chocolate Lowfat Milk, 1 pint""",2024-12-13 23:27:16,546,1
+WF00542,1.29,"""First Aid, Hydrogen Peroxide (Topical Solution), 16 fl oz""",2024-12-13 23:27:16,546,1
+WF00543,3.49,"""Unscented Glass Cleaner, 26 fl oz""",2024-12-13 23:27:16,546,1
+WF00544,1.59,"""Organic Apricot Banana Spinach Yogurt with Ground Chia Baby Food, 4 oz""",2024-12-13 23:27:16,546,1
+WF00545,3.29,"""Seasonings Mustard Seed - Ground, 1 each""",2024-12-13 23:27:16,546,1
+WF00546,3.29,"""Ground Allspice, 1 each""",2024-12-13 23:27:16,546,1
+WF00547,7.29,"""Aromatherapy Carrier Oil, Emollient Castor Oil (Skin & Hair Care), 16 fl oz""",2024-12-13 23:27:16,546,1
+WF00548,8.69,"""Sun Screen, Hydrating Facial Lotion (SPF 30), 2 fl oz""",2024-12-13 23:27:16,546,1
+WF00549,2.99,"""Protein Chewy Bites Cinnamon Apple, 1 each""",2024-12-13 23:27:16,546,1
+WF00550,2.87,"""Dark Chocolate Apple Caramel Butter Cups, 4.7 oz""",2024-12-13 23:27:16,546,1
+WF00551,8.89,"""Aromatherapy Carrier Oil, Restoring Avocado Oil (Skin & Hair Care), 4 fl oz""",2024-12-13 23:27:16,546,1
+WF00552,4.59,"""Supplements - Vitamins, B6 50mg""",2024-12-13 23:27:16,546,1
+WF00553,5.49,"""Three Cheese Ravioli, 9 oz""",2024-12-13 23:27:16,546,1
+WF00554,3.17,"""Limited Edition Pancake Waffle Mix, Spiced Pumpkin, 20 oz""",2024-12-13 23:27:16,546,1
+WF00555,4.29,"""Organic Poppy Seeds, 2.05 oz""",2024-12-13 23:27:16,546,1
+WF00556,4.49,"""Marinade, Shawarma - Medium, 12 oz""",2024-12-13 23:27:16,546,1
+WF00557,4.19,"""Triple Milled Glycerin Soap, Lavender, 4 oz""",2024-12-13 23:27:16,546,1
+WF00558,18.49,"""Raspberry Electrolyte Stks Consumer, 5.3 oz""",2024-12-13 23:27:16,546,1
+WF00559,2.87,"""Limited Edition Bread & Muffin Mix, Spiced Pumpkin (Made With Real Pumpkin), 18.3 oz""",2024-12-13 23:27:16,546,1
+WF00560,3.29,"""Chocolate Sprinkles, 2.75 oz""",2024-12-13 23:27:16,546,1
+WF00561,7.59,"""Relaxing Lavender Roll On, 0.31 fl oz""",2024-12-13 23:27:16,546,1
+WF00562,9.89,"""Aloe & White Tea Maximum Moisture Lotion, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00563,12.99,"""Bedtime Blend Essential Oil, 0.5 fl oz""",2024-12-13 23:27:16,546,1
+WF00564,3.49,"""Aromatherapy Carrier Oil, Nourishing Grapeseed Oil (Skin & Hair Care), 4 fl oz""",2024-12-13 23:27:16,546,1
+WF00565,8.79,"""Avocado Oil Blend, 16.9 fl oz""",2024-12-13 23:27:16,546,1
+WF00566,3.69,"""Lemon Tub And Tile Cleaner, 26 fl oz""",2024-12-13 23:27:16,546,1
+WF00567,9.99,"""Lavender Cbd Infused Epsom Salt, 8 oz""",2024-12-13 23:27:16,546,1
+WF00568,5.59,"""Sensitive Cavity Fighting Toothpaste With Hemp Seed Oil, 5.5 oz""",2024-12-13 23:27:16,546,1
+WF00569,1.59,"""Organic Apple Pumpkin Blueberry Chickpea Baby Food, 4 oz""",2024-12-13 23:27:16,546,1
+WF00570,5.99,"""Regular Strength Antacid, 150 chewable vegetarian tablets""",2024-12-13 23:27:16,546,1
+WF00571,4.29,"""Organic Spicy Ranch Dressing, 12 fl oz""",2024-12-13 23:27:16,546,1
+WF00572,2.69,"""Paper Wax, 75 sq ft""",2024-12-13 23:27:16,546,1
+WF00573,3.49,"""Oooo! Orange! Kids Foaming Hand Soap, 12 fl oz""",2024-12-13 23:27:16,546,1
+WF00574,6.89,"""Aloe & White Tea Maximum Moisture Lotion, 16 fl oz""",2024-12-13 23:27:16,546,1
+WF00575,6.29,"""Facial Care, Facial Toner, Rose Petal, 8.45 fl oz""",2024-12-13 23:27:16,546,1
+WF00576,5.29,"""Linguine Nest, 8 oz""",2024-12-13 23:27:16,546,1
+WF00577,365,"""Diapers Size 1, 40 diapers""",2024-12-13 23:27:16,546,1
+WF00578,9.99,"""Diapers Size 1, 40 diapers""",2024-12-13 23:27:16,546,1
+WF00579,4.15,"""Facial Care, Acne Charcoal Cleanser, 6 fl oz""",2024-12-13 23:27:16,546,1
+WF00580,5.29,"""Fettuccine Nest, 8 oz""",2024-12-13 23:27:16,546,1
+WF00581,4.99,"""Gingerbread Cupcake & Cake Mix with a Lemon Glaze, 17.7 oz""",2024-12-13 23:27:16,546,1
+WF00582,3.29,"""Crushed Chipotle Chili, 0.88 oz""",2024-12-13 23:27:16,546,1
+WF00583,4.19,"""Coconut Leave In Conditioner, 8 fl oz""",2024-12-13 23:27:16,546,1
+WF00584,10.49,"""Anti-dandruff 2 In 1 Honeycrisp Apple, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00585,3.29,"""Extract, Lemon, 2 fl oz""",2024-12-13 23:27:16,546,1
+WF00586,1.79,"""Regular Strength Antacid Travel Size Single, 12 per tube chewable vegetarian tablets""",2024-12-13 23:27:16,546,1
+WF00587,3.29,"""Baking Decorating Sugar, Blue, 3.3 oz""",2024-12-13 23:27:16,546,1
+WF00588,3.29,"""Caraway Seed, 1 each""",2024-12-13 23:27:16,546,1
+WF00589,1.67,"""Instant Mashed Potatoes, Roasted Garlic, 7.2 oz""",2024-12-13 23:27:16,546,1
+WF00590,5.79,"""Aromatherapy Carrier Oil, Moisturizing Vegetable Glycerin, 4 fl oz""",2024-12-13 23:27:16,546,1
+WF00591,3.19,"""Organic Kids Safety Swab, 60 count""",2024-12-13 23:27:16,546,1
+WF00592,77,"""Organic Brown Gravy Packet, 0.85 oz""",2024-12-13 23:27:16,546,1
+WF00593,6.39,"""Multi-Purpose Jelly, 4 oz""",2024-12-13 23:27:16,546,1
+WF00594,3.29,"""Nonpareils White Sprinkles, 3.15 oz""",2024-12-13 23:27:16,546,1
+WF00595,10.79,"""Pomegranate Energy Shot 6 Count, 2 fl oz""",2024-12-13 23:27:16,546,1
+WF00596,3.29,"""Baking Decorating Sugar, Yellow, 3.3 oz""",2024-12-13 23:27:16,546,1
+WF00597,7.59,"""Uplifting Citrus Roll On, 0.5 fl oz""",2024-12-13 23:27:16,546,1
+WF00598,7.59,"""Blooming Rose Roll On, 0.31 fl oz""",2024-12-13 23:27:16,546,1
+WF00599,5.39,"""After Sun Gel, 8 fl oz""",2024-12-13 23:27:16,546,1
+WF00600,5.29,"""Vegetable Lo Mein, 16 oz""",2024-12-13 23:27:16,546,1
+WF00601,4.99,Sweet Bell Peppers,2024-12-13 23:27:16,546,1
+WF00602,1.79,"""Non-Dairy Almondmilk Yogurt, Vanilla, 5.3 oz""",2024-12-13 23:27:16,546,1
+WF00603,2.69,Organic Carrot Bag,2024-12-13 23:27:16,546,1
+WF00604,2.69,"""Organic Quinoa Red And White 90 Second, 8.8 oz""",2024-12-13 23:27:16,546,1
+WF00605,9.99,"""Soft & Gentle Ultra-Absorbent Diapers, Size 5, 23 diapers""",2024-12-13 23:27:16,546,1
+WF00606,7.69,"""Paper Towels 75 Sheet Jumbo Rolls 6 Count, 2 ply sheets per roll""",2024-12-13 23:27:16,546,1
+WF00607,5.49,"""Original Miso Base, 16 oz""",2024-12-13 23:27:16,546,1
+WF00608,6.39,Sliced Soft Baguette 4 Count,2024-12-13 23:27:16,546,1
+WF00609,2.99,"""Crackers, Oyster, 8 oz""",2024-12-13 23:27:16,546,1
+WF00610,3.99,"""Organic Raisins, 12 oz""",2024-12-13 23:27:16,546,1
+WF00611,3.49,"""Organic Yellow Corn Tortilla Strips, 12 oz""",2024-12-13 23:27:16,546,1
+WF00612,3.49,"""Unsweetened Almondmilk, 64 fl oz""",2024-12-13 23:27:16,546,1
+WF00613,5.99,Organic Light String Cheese 8 OZ,2024-12-13 23:27:16,546,1
+WF00614,3.49,"""Organic Mango Passionfruit Reduced Sugar Juice, 64 fl oz""",2024-12-13 23:27:16,546,1
+WF00615,8.29,"""Organic Roasted And Unsalted Almonds, 10 oz""",2024-12-13 23:27:16,546,1
+WF00616,2.69,"""Organic Rice Basmati Brown 90 Second, 8.8 oz""",2024-12-13 23:27:16,546,1
+WF00617,3.99,"""Organic Pumpkin Seeds, 8 oz""",2024-12-13 23:27:16,546,1
+WF00618,6.49,"""Whole Raw Almonds, 16 oz""",2024-12-13 23:27:16,546,1
+WF00619,6.99,Banana Nut Pound Cake,2024-12-13 23:27:16,546,1
+WF00620,2.69,Soft Cream Cheese 8 OZ,2024-12-13 23:27:16,546,1
+WF00621,2.99,"""Organic Applesauce Strawberry - Unsweetened (4 - 3.2 Ounce Pouches), 12.7 oz""",2024-12-13 23:27:16,546,1
+WF00622,3.99,"""Dark Chocolate Almonds, 6 oz""",2024-12-13 23:27:16,546,1
+WF00623,4.99,"""Organic White Quinoa, 16 oz""",2024-12-13 23:27:16,546,1
+WF00624,14.99,"""Organic Unroasted Unsalted Value Size Almonds, 20 oz""",2024-12-13 23:27:16,546,1
+WF00625,11.99,"""Organic Unroasted Unsalted Value Size Cashews, 20 oz""",2024-12-13 23:27:16,546,1
+WF00626,7.49,"""Ginger Ale 12 Pack, 1.1 gallon""",2024-12-13 23:27:16,546,1
+WF00627,14.29,"""Unsalted Pine Nuts, 8 oz""",2024-12-13 23:27:16,546,1
+WF00628,2.69,"""Organic Rice Brown Whole Grain 90 Second, 8.8 oz""",2024-12-13 23:27:16,546,1
+WF00629,3.99,"""Organic No Sugar Added Ketchup, 16.6 oz""",2024-12-13 23:27:16,546,1
+WF00630,2.49,"""Organic Pizza Sauce, 14 oz""",2024-12-13 23:27:16,546,1
+WF00631,2.49,"""Raisin Bran Cereal, 15 oz""",2024-12-13 23:27:16,546,1
+WF00632,2.79,"""Organic Wonton Strips, 3.5 oz""",2024-12-13 23:27:16,546,1
+WF00633,2.79,"""White Cheddar Cheese Curls, 7 oz""",2024-12-13 23:27:16,546,1
+WF00634,3.79,"""Organic Cereal Bran Flakes, 15 oz""",2024-12-13 23:27:16,546,1
+WF00635,5.29,"""Organic Granola Oat And Honey, 17 oz""",2024-12-13 23:27:16,546,1
+WF00636,4.69,"""Popcorn Kernels, Yellow, 28 oz""",2024-12-13 23:27:16,546,1
+WF00637,3.19,"""Organic Croutons, Seasoned, 4.5 oz""",2024-12-13 23:27:16,546,1
+WF00638,3.49,"""Salted Saltine Crackers, 16 oz""",2024-12-13 23:27:16,546,1
+WF00639,4.99,"""Sea Salt Almond Flour Crackers, 5 oz""",2024-12-13 23:27:16,546,1
+WF00640,3.49,"""Organic Watermelon Strawberry Reduced Sugar Juice, 64 fl oz""",2024-12-13 23:27:16,546,1
+WF00641,2.49,"""Organic Pizza Sauce, 14 oz""",2024-12-13 23:27:16,546,1
+WF00642,3.19,"""Double Chocolate Granola with Red Berries, 12 oz""",2024-12-13 23:27:16,546,1
+WF00643,5.29,"""Organic Cage Free Liquid Egg Whites, 16 oz""",2024-12-13 23:27:16,546,1
+WF00644,2.79,"""White Cheddar Cheese Curls, 7 oz""",2024-12-13 23:27:16,546,1
+WF00645,3.79,"""Organic Cereal Bran Flakes, 15 oz""",2024-12-13 23:27:16,546,1
+WF00646,1.19,"""Alkaline and Electrolyte Water 338 fz, 33.8 fluid ounce""",2024-12-13 23:27:16,546,1
+WF00647,4.79,"""Snack Pack-mini Cheese Sandwich Crackers, 1 each""",2024-12-13 23:27:16,546,1
+WF00648,2.99,Frozen Dutch Style Pancake Bites,2024-12-13 23:27:16,546,1
+WF00649,3.19,"""Vanilla Sandwich Cremes, 20 oz""",2024-12-13 23:27:16,546,1
+WF00650,3.29,"""Broccoli Florets Organic, 16 Ounce""",2024-12-13 23:27:16,546,1
+WF00651,10.49,"""Organic Dried Unsweetened Bing Cherries, 8 oz""",2024-12-13 23:27:16,546,1
+WF00652,24.99,"""Frozen Farm-Raised Seafood Value Pack, Atlantic Salmon Fillets""",2024-12-13 23:27:16,546,1
+WF00653,3.69,"""Organic Caesar Dressing, 16 fl oz""",2024-12-13 23:27:16,546,1
+WF00654,4.19,"""Swiss Bar, 8 oz""",2024-12-13 23:27:16,546,1
+WF00655,6.99,"""Mayonnaise, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00656,3.49,"""Organic Root Vegetables, 16 oz""",2024-12-13 23:27:16,546,1
+WF00657,4.99,"""Organic Sliced Colby Jack Cheese, 6 oz""",2024-12-13 23:27:16,546,1
+WF00658,4.19,"""Organic Heavy Cream, 1 each""",2024-12-13 23:27:16,546,1
+WF00659,4.99,"""Organic Sliced Hickory Smoked Cheddar Cheese, 6 oz""",2024-12-13 23:27:16,546,1
+WF00660,5.49,"""WFM CHEESE TORTELLINI, 9 oz""",2024-12-13 23:27:16,546,1
+WF00661,365,Organic Chicken Breast Tenderloins,2024-12-13 23:27:16,546,1
+WF00662,8.99,Organic Chicken Breast Tenderloins,2024-12-13 23:27:16,546,1
+WF00663,4.49,Organic Shredded Monterey Jack Cheese 6 OZ,2024-12-13 23:27:16,546,1
+WF00664,14.99,Ground Beef 80% Lean/20% Fat Value Pack,2024-12-13 23:27:16,546,1
+WF00665,4.49,"""Organic Shredded Mexican-Style Cheese Blend, 6 oz""",2024-12-13 23:27:16,546,1
+WF00666,3.99,Mayo Dressing & Spread 9.5 FZ,2024-12-13 23:27:16,546,1
+WF00667,4.99,"""Organic Sliced Mozzarella Cheese 6 OZ, 8 slices""",2024-12-13 23:27:16,546,1
+WF00668,2.49,Organic Peeled Baby Rainbow Carrots,2024-12-13 23:27:16,546,1
+WF00669,1.59,"""Organic Mango Apple Banana Kale Baby Food, 4 oz""",2024-12-13 23:27:16,546,1
+WF00670,4.19,"""Aluminum Foil, 50 sq ft""",2024-12-13 23:27:16,546,1
+WF00671,4.99,Organic Sliced Pepper Jack Cheese 6 OZ,2024-12-13 23:27:16,546,1
+WF00672,3.49,"""Non Dairy Parmesan Style Cheese Shreds, 5 oz""",2024-12-13 23:27:16,546,1
+WF00673,3.99,"""Lemon Wafer Bites, 8.8 oz""",2024-12-13 23:27:16,546,1
+WF00674,3.99,"""Vanilla Wafer Bites, 8.8 oz""",2024-12-13 23:27:16,546,1
+WF00675,8.99,Tandoori Spiced Boneless Skinless Chicken Breasts,2024-12-13 23:27:16,546,1
+WF00676,2.99,"""Organic Celery Sticks, 8 oz""",2024-12-13 23:27:16,546,1
+WF00677,5.49,Boneless Skinless Chicken Breast,2024-12-13 23:27:16,546,1
+WF00678,3.39,"""Corn And Rice Lasagna, 8.8 oz""",2024-12-13 23:27:16,546,1
+WF00679,11.79,"""Organic Dark Chocolate Berry Trail Mix, 10 oz""",2024-12-13 23:27:16,546,1
+WF00680,7.79,"""Double Feature Trail Mix, 12 oz""",2024-12-13 23:27:16,546,1
+WF00681,9.29,"""Treasure Hunt Trail Mix Multipack, 15 oz""",2024-12-13 23:27:16,546,1
+WF00682,7.79,"""Midnight Double Feature Trail Mix, 12 oz""",2024-12-13 23:27:16,546,1
+WF00683,7.79,"""Blueberry & Nut Trail Mix, 11 oz""",2024-12-13 23:27:16,546,1
+WF00684,5.49,Plant Based Burger Patties,2024-12-13 23:27:16,546,1
+WF00685,3.29,"""Organic Hot Cereal, Old-fashioned Rolled Oats, 18 oz""",2024-12-13 23:27:16,546,1
+WF00686,4.79,"""Organic Apple Cinnamon Instant Oatmeal 8 Pack, 11.3 oz""",2024-12-13 23:27:16,546,1
+WF00687,4.79,"""Organic Maple and Brown Sugar Instant Oatmeal 8 Pack, 1.41 oz""",2024-12-13 23:27:16,546,1
+WF00688,4.99,"""Rosemary Sea Salt Almond Flour Crackers, 5 oz""",2024-12-13 23:27:16,546,1
+WF00689,7.79,"""Kahuna Crunch Trail Mix, 11 oz""",2024-12-13 23:27:16,546,1
+WF00690,6.99,Organic Black Pepper Sliced Turkey,2024-12-13 23:27:16,546,1
+WF00691,6.99,Organic Applewood Smoked Sliced Turkey,2024-12-13 23:27:16,546,1
+WF00692,6.99,Organic Oven Roasted Sliced Turkey,2024-12-13 23:27:16,546,1
+WF00693,9.29,"""Cape Cod Trail Mix Multipack, 1.5 oz""",2024-12-13 23:27:16,546,1
+WF00694,4.79,"""Organic Instant Oatmeal Original 8 Pack, 11.3 oz""",2024-12-13 23:27:16,546,1
+WF00695,9.99,Organic Grass Fed Beef Summer Sausage,2024-12-13 23:27:16,546,1
+WF00696,13.99,Steakhouse Seasoned Beef Tri-Tip,2024-12-13 23:27:16,546,1
+WF00697,1.49,"""Treasure Hunt Trail Mix, 1 each""",2024-12-13 23:27:16,546,1
+WF00698,7.79,"""Cape Cod Trail Mix, 12 oz""",2024-12-13 23:27:16,546,1
+WF00699,17.99,"""2 Billion Mixed Fruit Flavor Adult Probiotic Gummies, 60 vegan gummies""",2024-12-13 23:27:16,546,1
+WF00700,14.29,"""Magnesium Lemon Fizz, 8 oz""",2024-12-13 23:27:16,546,1
+WF00701,23.99,"""Supplements - EFAs, Fish Oil (100% Wild Caught), 250 softgels""",2024-12-13 23:27:16,546,1
+WF00702,16.79,"""Supplements, Omega-3 (Cold Water Fish Oil), 90 softgels""",2024-12-13 23:27:16,546,1
+WF00703,21.49,"""Vitamin E 1000 IU, 60 softgels""",2024-12-13 23:27:16,546,1
+WF00704,12.99,"""Organic Powdered Spirulina, 4 oz""",2024-12-13 23:27:16,546,1
+WF00705,17.49,Vitamin C Plus Acerola 90 ct,2024-12-13 23:27:16,546,1
+WF00706,11.99,"""High Potency B-Complex plus Herbs & Minerals, 90 vegan tablets""",2024-12-13 23:27:16,546,1
+WF00707,19.49,"""Organic Variety Fruit Strips, 0.63 oz""",2024-12-13 23:27:16,546,1
+WF00708,10.79,"""Supplements - Multivitamins, Adult Multivitamin with Iron, 90 tablets""",2024-12-13 23:27:16,546,1
+WF00709,15.99,"""DGL Plus Chewable Tablets, 100 vegan tablets""",2024-12-13 23:27:16,546,1
+WF00710,9.29,"""Vitamin D3 Softgels 500 IU, 120 softgels""",2024-12-13 23:27:16,546,1
+WF00711,13.29,Vitamin B12 Spray 1000 MCG,2024-12-13 23:27:16,546,1
+WF00712,16.79,Supplements - Daily Probiotic - Extra Strength (30 Vegetarian Capsules) 30 Count,2024-12-13 23:27:16,546,1
+WF00713,22.99,"""Super Omega 3 With CoQ10, 60 softgels""",2024-12-13 23:27:16,546,1
+WF00714,24.99,"""Collagen Peptides Powder, Unflavored, 12 oz""",2024-12-13 23:27:16,546,1
+WF00715,2.99,"""Organic Corn Chips, 9 oz""",2024-12-13 23:27:16,546,1
+WF00716,19.29,Wholezyme 180 VC,2024-12-13 23:27:16,546,1
+WF00717,17.99,Calcium 600 Plus D 120 TB,2024-12-13 23:27:16,546,1
+WF00718,21.49,"""Supplements - Minerals, Cal-Mag Zinc with Vitamin D3, 180 vegetarian tablets""",2024-12-13 23:27:16,546,1
+WF00719,40.99,"""Quercetin with Bromelain, 100 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00720,17.99,"""Oil of Oregano, 1 each""",2024-12-13 23:27:16,546,1
+WF00721,9.49,"""Vitamin B12 Lozenges, 500 mcg, 100 vegan lozenges""",2024-12-13 23:27:16,546,1
+WF00722,25.99,"""B-50 Complex, 90 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00723,11.29,"""Daily Digestive Formula, 100 tablets""",2024-12-13 23:27:16,546,1
+WF00724,35.49,"""Supplements - Bone & Joint, Glucosamine Chondroitin, 240 capsules""",2024-12-13 23:27:16,546,1
+WF00725,15.49,"""Supplements - Vitamins, C Complex - Buffered, 180 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00726,12.99,Adult Gummy Multivitamin 150 Count,2024-12-13 23:27:16,546,1
+WF00727,9.99,"""Vitamin D3 Softgels, 2000 IU, 250 softgels""",2024-12-13 23:27:16,546,1
+WF00728,6.49,"""Magnesium 200mg, 60 vegan tablets""",2024-12-13 23:27:16,546,1
+WF00729,22.99,"""Super Omega 3, 90 softgels""",2024-12-13 23:27:16,546,1
+WF00730,4.39,"""Plain Sparkling Water, 12 fl oz""",2024-12-13 23:27:16,546,1
+WF00731,5.09,"""Organic Strawberry Fruit Spread, 17 oz""",2024-12-13 23:27:16,546,1
+WF00732,5.39,"""No Stir Creamy Peanut Butter, 40 oz""",2024-12-13 23:27:16,546,1
+WF00733,4.39,Sparkling Ginger Water 12 Pk Cans,2024-12-13 23:27:16,546,1
+WF00734,13.49,"""Vitamin K2, 30 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00735,14.99,"""Ashwagandha, 60 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00736,15.49,"""Supplements - Vitamins C (Gummies), 150 vegetarian gummies""",2024-12-13 23:27:16,546,1
+WF00737,21.99,"""Womens Probiotic 10 Billion CFU, 30 vegetarian capsules""",2024-12-13 23:27:16,546,1
+WF00738,12.79,"""Supplements - EFAs, Fish Oil (100% Wild Caught)""",2024-12-13 23:27:16,546,1
+WF00739,9.99,"""Organic Maca Powder, 8 oz""",2024-12-13 23:27:16,546,1
+WF00740,16.99,"""L-Carnitine 500 MG, 60 vegan tablets""",2024-12-13 23:27:16,546,1
+WF00741,11.99,"""Power Lysine, 90 vegetarian tablets""",2024-12-13 23:27:16,546,1
+WF00742,14.99,"""Kava Liquid Extract, 1 each""",2024-12-13 23:27:16,546,1
+WF00743,34.99,"""Supplements - Multivitamins Prenatal - with Iron (Vegetarian Tablets), 180 vegetarian tablets""",2024-12-13 23:27:16,546,1
+WF00744,11.29,"""Echinacea, 60 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00745,18.99,Reishi 90ct,2024-12-13 23:27:16,546,1
+WF00746,8.19,"""Vitamin D3 Kids Liquid, 1 each""",2024-12-13 23:27:16,546,1
+WF00747,16.29,"""L-Tryptophan 500 MG, 60 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00748,3.49,"""Organic Cake Cup Cone, 1 each""",2024-12-13 23:27:16,546,1
+WF00749,12.99,"""Prenatal Gummy, 90 gummies""",2024-12-13 23:27:16,546,1
+WF00750,14.49,"""Amino Essentials, 100 capsules""",2024-12-13 23:27:16,546,1
+WF00751,9.49,"""Organic Unrefined Coconut Oil Virgin, 14 fl oz""",2024-12-13 23:27:16,546,1
+WF00752,4.99,"""Organic Sliced Mild Cheddar Cheese, 8 slices""",2024-12-13 23:27:16,546,1
+WF00753,3.29,"""Organic Pomegranate & Elderberry Shot, 2 fl oz""",2024-12-13 23:27:16,546,1
+WF00754,3.99,"""Organic Yellow Taco Shells, 12 taco shells""",2024-12-13 23:27:16,546,1
+WF00755,7.09,"""Organic Creamy Unsweetened and No Salt Peanut Butter, 26 oz""",2024-12-13 23:27:16,546,1
+WF00756,39.99,"""Supplements - Bone & Joint, Glucosamine Chondroitin & MSM, 240 capsules""",2024-12-13 23:27:16,546,1
+WF00757,10.99,"""Dairy Digestive Enzymes, 60 vegetarian capsules""",2024-12-13 23:27:16,546,1
+WF00758,11.49,"""Collagen 2500 MG, 90 tablets""",2024-12-13 23:27:16,546,1
+WF00759,11.79,"""Supplements - Vitamins, B1 100mg""",2024-12-13 23:27:16,546,1
+WF00760,8.99,"""Ultra-Strength Peppermint Antacid, 160 chewable vegetarian tablets""",2024-12-13 23:27:16,546,1
+WF00761,59,"""Raspberry Effervescent C Powder Single, 0.26 oz""",2024-12-13 23:27:16,546,1
+WF00762,2.79,"""Unscented Dish Soap, 24 fl oz""",2024-12-13 23:27:16,546,1
+WF00763,22.49,"""Vitamin K2, 90 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00764,10.99,"""Childrens's Omega-3 Gummies, 120 gummies""",2024-12-13 23:27:16,546,1
+WF00765,9.79,"""Folic Acid 800 MCG, 250 vegan tablets""",2024-12-13 23:27:16,546,1
+WF00766,14.89,"""Kiwi Strawberry Effervescent C Powder 30 Count, 7.9 oz""",2024-12-13 23:27:16,546,1
+WF00767,7.59,"""Liquid Iodine With Kelp, 2 fl oz""",2024-12-13 23:27:16,546,1
+WF00768,6.19,"""Biotin Vegetarian Capsules, 500 mcg, 60 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00769,11.99,"""Gluten Digestive Enzymes, 60 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00770,19.99,"""Organic Stevia Liquid Extract, 8 fl oz""",2024-12-13 23:27:16,546,1
+WF00771,19.79,"""Glucosamine Chondroitin, 120 capsules""",2024-12-13 23:27:16,546,1
+WF00772,22.99,"""Turmeric, 60 liquid capsules""",2024-12-13 23:27:16,546,1
+WF00773,17.49,"""Gingko Leaf, 120 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00774,3.49,"""Organic Unsweetened Apple Sauce, 24 oz""",2024-12-13 23:27:16,546,1
+WF00775,28.99,"""Kava, 60 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00776,8.39,"""Vitamin A & D 400 IU, 100 softgels""",2024-12-13 23:27:16,546,1
+WF00777,20.49,"""Ginseng, 60 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00778,19.99,"""Echinacea, 120 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00779,11.99,"""Gingko Leaf, 60 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00780,12.79,"""Turmeric Liquid Extract, 1 each""",2024-12-13 23:27:16,546,1
+WF00781,19.99,"""Saw Palmetto, 60 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00782,4.29,"""Dill Pickle Chips, 24 fl oz""",2024-12-13 23:27:16,546,1
+WF00783,11.99,"""Skipjack Tuna in Water No Salt Added 6pk, 5 oz""",2024-12-13 23:27:16,546,1
+WF00784,4.47,"""Tamari Seasoned Almonds, 10 oz""",2024-12-13 23:27:16,546,1
+WF00785,6.79,"""Organic Sliced Strawberries and Bananas, 32 oz""",2024-12-13 23:27:16,546,1
+WF00786,3.69,"""Frozen Fruit, Pineapples - Chunks""",2024-12-13 23:27:16,546,1
+WF00787,15.99,"""Supplements - Multivitamins Men's - Iron Free (Tablets), 90 iron-free tablets""",2024-12-13 23:27:16,546,1
+WF00788,3.49,"""2-Ply Dinner Napkins, 100 count""",2024-12-13 23:27:16,546,1
+WF00789,12.99,"""Super Seed Blend, 16 oz""",2024-12-13 23:27:16,546,1
+WF00790,24.49,"""Alpha Lipoic Acid 300 MG, 120 vegan tablets""",2024-12-13 23:27:16,546,1
+WF00791,17.99,"""Black Chia Seed, 32 oz""",2024-12-13 23:27:16,546,1
+WF00792,3.19,"""Organic Garbanzo Beans, 16 oz""",2024-12-13 23:27:16,546,1
+WF00793,8.99,Atlantic Salmon Fillets,2024-12-13 23:27:16,546,1
+WF00794,8.99,Patagonian Sea Scallops 80/120,2024-12-13 23:27:16,546,1
+WF00795,4.69,Lemon Tahini Crunch Chopped Salad Kit,2024-12-13 23:27:16,546,1
+WF00796,3.99,"""Organic Seafood Spice Rub, 4.4 oz""",2024-12-13 23:27:16,546,1
+WF00797,3.49,Organic Mushroom Medley,2024-12-13 23:27:16,546,1
+WF00798,15.49,"""Cascara Sagrada, 60 vegan capsule""",2024-12-13 23:27:16,546,1
+WF00799,3.99,"""Organic Antioxidant Fruit Blend, 16 oz""",2024-12-13 23:27:16,546,1
+WF00800,5.79,"""Wild Alaskan Pink Salmon, 14.75 oz""",2024-12-13 23:27:16,546,1
+WF00801,2.79,"""Stir Fry Style Riced Cauliflower, 12 oz""",2024-12-13 23:27:16,546,1
+WF00802,15.49,"""Unfiltered Italian Extra Virgin Olive Oil, 25.4 fl oz""",2024-12-13 23:27:16,546,1
+WF00803,1.89,"""Strawberry Watermelon Energy Shot, 2 fl oz""",2024-12-13 23:27:16,546,1
+WF00804,17.29,"""Hawthorn And Vitexin, 60 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00805,2.89,"""Organic Strawberry Peach Mint Kombucha, 16 fl oz""",2024-12-13 23:27:16,546,1
+WF00806,4.19,"""Strawberry Banana Kefir, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00807,8.99,"""Mediterranean Blend Extra Virgin Olive Oil, 16.9 fl oz""",2024-12-13 23:27:16,546,1
+WF00808,15.49,"""Greek Extra Virgin Olive Oil, 25.4 fl oz""",2024-12-13 23:27:16,546,1
+WF00809,5.99,"""Pie Dough, 19.7 oz""",2024-12-13 23:27:16,546,1
+WF00810,3.49,"""Waffles, 8 oz""",2024-12-13 23:27:16,546,1
+WF00811,11.29,"""Organic Extra Virgin Olive Oil Spray, 10 fl oz""",2024-12-13 23:27:16,546,1
+WF00812,3.29,"""Organic Gut Health Perishable Shot, 2 fl oz""",2024-12-13 23:27:16,546,1
+WF00813,4.19,"""Peach Kefir, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00814,18.99,"""Turkey Tail, 90 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00815,17.99,CoQ10 200mg 30ct,2024-12-13 23:27:16,546,1
+WF00816,12.99,"""Olive Leaf, 60 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00817,2.79,"""Lemon Peel Dish Soap, 24 fl oz""",2024-12-13 23:27:16,546,1
+WF00818,8.99,Plant-Based Beef Style Burger,2024-12-13 23:27:16,546,1
+WF00819,4.19,"""Strawberry Kefir, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00820,7.99,"""Organic No Salt Added Cut Green Beans 4pk, 14.5 oz""",2024-12-13 23:27:16,546,1
+WF00821,5.99,"""Hot Honey, 12 oz""",2024-12-13 23:27:16,546,1
+WF00822,15.29,"""Fiber Gummy, 90 vegan gummies""",2024-12-13 23:27:16,546,1
+WF00823,19.99,"""Organic Spirulina Tablets, 3000 mg, 250 vegan tablets""",2024-12-13 23:27:16,546,1
+WF00824,3.29,"""Smoked Paprika, 1 each""",2024-12-13 23:27:16,546,1
+WF00825,3.29,"""Salt Blend Seasoning, 3.67 oz""",2024-12-13 23:27:16,546,1
+WF00826,365,"""Organic Unsweetened Vanilla Coconut Milk, 64 fl oz""",2024-12-13 23:27:16,546,1
+WF00827,4.99,"""Organic Unsweetened Vanilla Coconut Milk, 64 fl oz""",2024-12-13 23:27:16,546,1
+WF00828,9.37,"""Protein Whey Grassfed Chocolate, 11.6 oz""",2024-12-13 23:27:16,546,1
+WF00829,2.89,"""Organic Unsweetened Almond Milk, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00830,3.49,"""Organic Shredded Coconut, 8 oz""",2024-12-13 23:27:16,546,1
+WF00831,20.99,"""Supplements - Multivitamins, Age 50+ Multivitamin Iron-Free, 180 tablets""",2024-12-13 23:27:16,546,1
+WF00832,3.29,"""Cayenne Pepper, 1 each""",2024-12-13 23:27:16,546,1
+WF00833,20.99,"""Adult Multi, 180 tablets""",2024-12-13 23:27:16,546,1
+WF00834,19.49,Turmeric 60 ct,2024-12-13 23:27:16,546,1
+WF00835,7.29,Vitamin C High Potency 50 ct,2024-12-13 23:27:16,546,1
+WF00836,9.79,"""Organic Pomegranate Cranberry Whole Leaf Aloe Vera Juice, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00837,14.29,"""Astragalus, 60 vegan capsules""",2024-12-13 23:27:16,546,1
+WF00838,2.99,"""Lemon Honey Cough Drops, 30 drops""",2024-12-13 23:27:16,546,1
+WF00839,3.99,"""Herbal Cough Drops, 45 drops""",2024-12-13 23:27:16,546,1
+WF00840,9.49,"""Organic Wtg Breakfast Blend City Roast Pods, 4.6 oz""",2024-12-13 23:27:16,546,1
+WF00841,1.49,"""Organic Canned Beans, Black Beans, 15 oz""",2024-12-13 23:27:16,546,1
+WF00842,1.49,"""Organic Great Northern Beans, 15.5 oz""",2024-12-13 23:27:16,546,1
+WF00843,9.79,"""Unscented Conditioner, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00844,11.99,"""Palo Santo & Rosewood Scented Candle, 8 oz""",2024-12-13 23:27:16,546,1
+WF00845,3.49,Turkey Whole 14/18 FZ OG S2,2024-12-13 23:27:16,546,1
+WF00846,13.99,"""Pleasant Morning Buzz Coffee, 24 oz""",2024-12-13 23:27:16,546,1
+WF00847,9.49,"""Organic Ground Coffee Capsules, Colombian Cup - Vienna Roast, 4.6 oz""",2024-12-13 23:27:16,546,1
+WF00848,9.49,"""Organic Decaf Peruvian Peak Vienna Roast, 4.6 oz""",2024-12-13 23:27:16,546,1
+WF00849,3.99,"""Herbal Cough Drops, 45 drops""",2024-12-13 23:27:16,546,1
+WF00850,3.29,"""Cayenne Pepper, 1 each""",2024-12-13 23:27:16,546,1
+WF00851,8.99,Breaded Chicken Nuggets,2024-12-13 23:27:16,546,1
+WF00852,9.79,"""Unscented Conditioner, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00853,2.29,"""Organic Canned Vegetables, Corn - Sweet Whole Kernel, 15.25 oz""",2024-12-13 23:27:16,546,1
+WF00854,25.99,"""Men's Multivitamin Iron-free, 180 iron-free tablets""",2024-12-13 23:27:16,546,1
+WF00855,2.79,"""Organic Tater Puffs, 16 oz""",2024-12-13 23:27:16,546,1
+WF00856,4.99,White Sliced Mushrooms,2024-12-13 23:27:16,546,1
+WF00857,13.99,"""Island Blend City Roast Whole Bean Coffee, 24 oz""",2024-12-13 23:27:16,546,1
+WF00858,9.49,"""Organic 100% Arabica Coffee, Ground - Medium Roast (Guatemalan), Caramell, 12 oz""",2024-12-13 23:27:16,546,1
+WF00859,2.79,"""Fresh Whole Wheat English Muffins, 15 oz""",2024-12-13 23:27:16,546,1
+WF00860,11.99,"""Tobacco & Vanilla Bean Scented Candle, 8 oz""",2024-12-13 23:27:16,546,1
+WF00861,7.49,"""Ground Coffee in Bag, Vienna Roast - Pleasant Morning Buzz, 10 oz""",2024-12-13 23:27:16,546,1
+WF00862,7.49,"""Lavender Epsom Salt, 48 oz""",2024-12-13 23:27:16,546,1
+WF00863,21.49,"""Frankincense Essential Oil, 0.5 fl oz""",2024-12-13 23:27:16,546,1
+WF00864,1.79,"""Medicated Lip Balm, 0.15 oz""",2024-12-13 23:27:16,546,1
+WF00865,9.09,"""Cactus Passive Diffuser, 1 each""",2024-12-13 23:27:16,546,1
+WF00866,13.99,"""Bonne Nuit French Roast Whole Bean Coffee, 24 oz""",2024-12-13 23:27:16,546,1
+WF00867,9.59,"""Organic Super Tampons Cardboard Applicator, 14 tampons""",2024-12-13 23:27:16,546,1
+WF00868,4.19,"""Kid's Fluoride Toothpaste, 4.2 oz""",2024-12-13 23:27:16,546,1
+WF00869,15.79,"""Aromatherapy 100% Essential Oil, Frankincense in Jojoba Oil, 2 fl oz""",2024-12-13 23:27:16,546,1
+WF00870,20.99,"""Magnesium Chloride Flakes, 32 oz""",2024-12-13 23:27:16,546,1
+WF00871,9.09,"""Vitamin E Oil 5,000 IU, 4.2 fl oz""",2024-12-13 23:27:16,546,1
+WF00872,18.99,"""Bath Tissue, 30 rolls""",2024-12-13 23:27:16,546,1
+WF00873,8.79,"""Aromatherapy 100% Essential Oil, Lemongrass, 2 fl oz""",2024-12-13 23:27:16,546,1
+WF00874,15.29,"""Essential Oil Rosemary Value Size, 2 fl oz""",2024-12-13 23:27:16,546,1
+WF00875,8.19,"""Vapor Bath Kids, 12 fl oz""",2024-12-13 23:27:16,546,1
+WF00876,4.99,"""Vitamin D3 Softgels, 1000 IU""",2024-12-13 23:27:16,546,1
+WF00877,4.89,"""Sweet Orange Essential Oil, 1 each""",2024-12-13 23:27:16,546,1
+WF00878,8.59,"""Acne Care Moisturizer, 2 fl oz""",2024-12-13 23:27:16,546,1
+WF00879,12.99,"""Aromatherapy 100% Essential Oil, Lemon, 2 fl oz""",2024-12-13 23:27:16,546,1
+WF00880,36.49,"""Ultrasonic Diffuser Sisu, 1 each""",2024-12-13 23:27:16,546,1
+WF00881,25.99,"""Diffuser Mini Bali, 1 each""",2024-12-13 23:27:16,546,1
+WF00882,6.49,"""Island Coconut Shower Gel, 16 fl oz""",2024-12-13 23:27:16,546,1
+WF00883,4.19,"""Kid's Fluoride-Free Strawberry Toothpaste, 4.2 oz""",2024-12-13 23:27:16,546,1
+WF00884,18.79,"""Patchouli Essential Oil, 1 each""",2024-12-13 23:27:16,546,1
+WF00885,5.29,"""Tangerine Essential Oil, 1 each""",2024-12-13 23:27:16,546,1
+WF00886,29.49,"""Ultrasonic Diffuser Sedona, 1 each""",2024-12-13 23:27:16,546,1
+WF00887,2.79,"""Feminine Wipes Fragrance Free, 30 wipes""",2024-12-13 23:27:16,546,1
+WF00888,9.97,"""Lemon Omega 3 Liquid, 8 fl oz""",2024-12-13 23:27:16,546,1
+WF00889,6.99,"""Grapeseed Oil, 16.9 fl oz""",2024-12-13 23:27:16,546,1
+WF00890,11.99,"""Vitamin E Oil 56,000 IU, 2.25 fl oz""",2024-12-13 23:27:16,546,1
+WF00891,4.49,"""Organic Frozen Ice Cream, Coffee Chip, 1 each""",2024-12-13 23:27:16,546,1
+WF00892,9.99,Gyro Slices with Lamb,2024-12-13 23:27:16,546,1
+WF00893,4.79,"""Whole Dill Pickle, 32 fl oz""",2024-12-13 23:27:16,546,1
+WF00894,9.99,"""Organic Pecan Halves, 8 oz""",2024-12-13 23:27:16,546,1
+WF00895,23.99,Baby Wipe Club 600 Count,2024-12-13 23:27:16,546,1
+WF00896,3.79,"""Peanut Butter Cookie Dough Ice Cream, 1 each""",2024-12-13 23:27:16,546,1
+WF00897,3.05,"""Lavender witch hazel toner, 8.45 fl oz""",2024-12-13 23:27:16,546,1
+WF00898,2.17,"""Organic Roasted Chipotle Salsa, 16 oz""",2024-12-13 23:27:16,546,1
+WF00899,17.49,"""Organic Ground Coffee Capsules, Breakfast Blend - City Roast, 9.3 oz""",2024-12-13 23:27:16,546,1
+WF00900,2.99,"""Organic Strawberry Cereal Bar 6 Count, 7.8 oz""",2024-12-13 23:27:16,546,1
+WF00901,59,"""Orange Effervescent C Powder, 0.25 oz""",2024-12-13 23:27:16,546,1
+WF00902,2.79,"""Potato Gnocchi, 16 oz""",2024-12-13 23:27:16,546,1
+WF00903,2.79,Organic Petite Baby Carrots,2024-12-13 23:27:16,546,1
+WF00904,5.19,"""Fragrance Free Baby Lotion, 16 fl oz""",2024-12-13 23:27:16,546,1
+WF00905,8.39,"""Organic Wild Blueberries, 32 oz""",2024-12-13 23:27:16,546,1
+WF00906,3.29,"""Cream of Tartar, 3.62 oz""",2024-12-13 23:27:16,546,1
+WF00907,4.69,Organic Riced Cauliflower,2024-12-13 23:27:16,546,1
+WF00908,1.67,"""Lakeside Leaves Foaming Hand Soap, 12 fl oz""",2024-12-13 23:27:16,546,1
+WF00909,5.69,$5.12with Prime,2024-12-13 23:27:16,546,1
+WF00910,11.99,"""Fragrance Free Bar Soap 8 Count, 3.75 oz""",2024-12-13 23:27:16,546,1
+WF00911,2.51,Foaming Spiced Balsam Scented Hand Soap,2024-12-13 23:27:16,546,1
+WF00912,5.75,"""Vegetarian Butter Chik'n Naan Bites, 8.5 oz""",2024-12-13 23:27:16,546,1
+WF00913,7.99,Breaded Butterfly Shrimp 10 OZ,2024-12-13 23:27:16,546,1
+WF00914,4.29,"""Cayenne Pepper, 1 each""",2024-12-13 23:27:16,546,1
+WF00915,23.99,Gulf White Shrimp 16-20 Count 32 OZ,2024-12-13 23:27:16,546,1
+WF00916,7.99,Hot Smoked Atlantic Salmon Cubes,2024-12-13 23:27:16,546,1
+WF00917,4.29,"""Organic Ground Cumin, 1 each""",2024-12-13 23:27:16,546,1
+WF00918,6.29,"""Organic Green Tea, 4.9 oz""",2024-12-13 23:27:16,546,1
+WF00919,4.29,"""Organic Extract, Almond, 2 fl oz""",2024-12-13 23:27:16,546,1
+WF00920,12.99,Creme Brulee Madeleine,2024-12-13 23:27:16,546,1
+WF00921,4.69,"""Organic Rooibos Tea - Caffeine Free, Orange Vanilla (40 Tea Bags), 2.8 oz""",2024-12-13 23:27:16,546,1
+WF00922,4.29,"""Ground Mustard Seed, 1 each""",2024-12-13 23:27:16,546,1
+WF00923,3.79,"""Peanut Butter Cookie Dough Ice Cream, 1 each""",2024-12-13 23:27:16,546,1
+WF00924,4.49,"""Organic Frozen Ice Cream, Coffee Chip, 1 each""",2024-12-13 23:27:16,546,1
+WF00925,3.79,"""Brownie Batter Ice Cream, 1 each""",2024-12-13 23:27:16,546,1
+WF00926,1.99,"""Fresh Scent Bar Soap, 4 oz""",2024-12-13 23:27:16,546,1
+WF00927,16.29,"""Essential Oils 4 Count, 1 each""",2024-12-13 23:27:16,546,1
+WF00928,5.99,"""Organic Salted Butter, 16 oz""",2024-12-13 23:27:16,546,1
+WF00929,17.99,"""Yuzu & Prickly Pear 3 Wick Candle, 15 oz""",2024-12-13 23:27:16,546,1
+WF00930,8.49,"""Safflower Seed Oil, 16.9 fl oz""",2024-12-13 23:27:16,546,1
+WF00931,1.99,"""Fragrance Free Bar Soap, 4 oz""",2024-12-13 23:27:16,546,1
+WF00932,17.99,"""Sea Moss & Lily 3 Wick Candle, 15 oz""",2024-12-13 23:27:16,546,1
+WF00933,5.09,"""Organic Apricot Fruit Spread, 17 oz""",2024-12-13 23:27:16,546,1
+WF00934,19.99,"""Boom Boom Shrimp Club Pack, 32 Ounce""",2024-12-13 23:27:16,546,1
+WF00935,5.99,"""Organic Cocoa Powder, 8 oz""",2024-12-13 23:27:16,546,1
+WF00936,2.87,"""Organic Lip Balm Trio, 0.45 oz""",2024-12-13 23:27:16,546,1
+WF00937,1.67,"""Honey Crisp Cider Foaming Hand Soap, 12 fl oz""",2024-12-13 23:27:16,546,1
+WF00938,9.59,$8.63with Prime,2024-12-13 23:27:16,546,1
+WF00939,19.99,Wild-Caught Haddock Fillets,2024-12-13 23:27:16,546,1
+WF00940,19.99,"""CBD Body Balm 1000mg, 2 oz""",2024-12-13 23:27:16,546,1
+WF00941,4.99,Sliced Portobello Mushrooms,2024-12-13 23:27:16,546,1
+WF00942,8.19,Medium Brown Grade A Eggs 30 Count,2024-12-13 23:27:16,546,1
+WF00943,6.79,Sliced Shiitake Mushrooms,2024-12-13 23:27:16,546,1
+WF00944,2.99,"""Skipjack Tuna in Extra Virgin Olive Oil Salt Added, 1 count""",2024-12-13 23:27:16,546,1
+WF00945,4.94,"""Vegetable Egg Rolls, 4 egg rolls""",2024-12-13 23:27:16,546,1
+WF00946,8.45,"""2-pack Cheese Pizza, 12.5 oz""",2024-12-13 23:27:16,546,1
+WF00947,3.79,Whole Baby Bella Mushrooms,2024-12-13 23:27:16,546,1
+WF00948,6.59,$5.93with Prime,2024-12-13 23:27:16,546,1
+WF00949,4.43,$3.99with Prime,2024-12-13 23:27:16,546,1
+WF00950,4.04,"""Mexican Style Blend Shredded Cheese, 16 oz""",2024-12-13 23:27:16,546,1
+WF00951,5.03,"""Everything Pastry Mini Hot Dog Bites, 8.7 oz""",2024-12-13 23:27:16,546,1
+WF00952,5.99,Organic Gala Apple Bag,2024-12-13 23:27:16,546,1
+WF00953,5.29,Organic Russet Potato Bag,2024-12-13 23:27:16,546,1
+WF00954,6.59,$5.93with Prime,2024-12-13 23:27:16,546,1
+WF00955,2,2 for $9.97with Prime,2024-12-13 23:27:16,546,1
+WF00956,3.99,Organic Mixed Fingerling Potato Bag,2024-12-13 23:27:16,546,1
+WF00957,3.49,Russet Potato,2024-12-13 23:27:16,546,1
+WF00958,4.99,$4.49with Prime,2024-12-13 23:27:16,546,1

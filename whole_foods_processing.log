@@ -1,0 +1,6 @@
+2024-12-13 22:49:21,591 - INFO: Starting CSV processing: whole_foods_products.csv
+2024-12-13 22:49:21,854 - INFO: 
+🔍 Processing Summary 🔍
+2024-12-13 22:49:21,854 - INFO: Total Rows Processed: 77580
+2024-12-13 22:49:21,854 - INFO: Valid Products: 9596
+2024-12-13 22:49:21,854 - INFO: Processing Rate: 12.37%
